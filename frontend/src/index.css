@@ -1,0 +1,171 @@
+@import "tailwindcss";
+
+:root {
+  --canvas: #FFFDF4;
+  --surface: #FFFFFF;
+  --cherry: #E94B4B;
+  --butter: #FFE59A;
+  --peach: #FFB86B;
+  --ink: #30252A;
+  --text-main: #242024;
+  --text-muted: #756D70;
+  --border-ui: #E9E2D4;
+  --success-mint: #79C99A;
+}
+
+@theme {
+  --color-canvas: #FFFDF4;
+  --color-surface: #FFFFFF;
+  --color-cherry: #E94B4B;
+  --color-butter: #FFE59A;
+  --color-peach: #FFB86B;
+  --color-ink: #30252A;
+  --color-darkInk: #30252A;
+  --color-text-main: #242024;
+  --color-text: #242024;
+  --color-text-muted: #756D70;
+  --color-muted: #756D70;
+  --color-border-ui: #E9E2D4;
+  --color-border: #E9E2D4;
+  --color-success-mint: #79C99A;
+  --color-mint: #79C99A;
+
+  --font-sans: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-display: 'Playfair Display', Georgia, "Times New Roman", serif;
+  --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+
+body {
+  background-color: var(--canvas);
+  color: var(--text-main);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-display);
+  color: var(--ink);
+  letter-spacing: -0.02em;
+}
+
+/* Sharp Tactile Buttons */
+.btn-primary {
+  background-color: var(--cherry);
+  color: #FFFFFF;
+  padding: 0.625rem 1.5rem;
+  font-weight: 700;
+  border-radius: 0px;
+  border: 1.5px solid var(--ink);
+  transition: all 0.15s cubic-bezier(0.16, 1, 0.3, 1);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  box-shadow: 2px 2px 0px var(--ink);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  font-size: 0.8125rem;
+}
+
+.btn-primary:hover {
+  background-color: var(--ink);
+  color: var(--canvas);
+  transform: translate(-1px, -1px);
+  box-shadow: 3px 3px 0px var(--cherry);
+}
+
+.btn-primary:active {
+  transform: translate(1px, 1px);
+  box-shadow: 1px 1px 0px var(--ink);
+}
+
+.btn-secondary {
+  background-color: var(--butter);
+  color: var(--ink);
+  padding: 0.625rem 1.5rem;
+  font-weight: 700;
+  border-radius: 0px;
+  border: 1.5px solid var(--ink);
+  transition: all 0.15s cubic-bezier(0.16, 1, 0.3, 1);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  box-shadow: 2px 2px 0px var(--ink);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  font-size: 0.8125rem;
+}
+
+.btn-secondary:hover {
+  background-color: var(--peach);
+  color: var(--ink);
+  transform: translate(-1px, -1px);
+  box-shadow: 3px 3px 0px var(--ink);
+}
+
+.btn-secondary:active {
+  transform: translate(1px, 1px);
+  box-shadow: 1px 1px 0px var(--ink);
+}
+
+/* Crisp Flat Editorial Card */
+.card {
+  background-color: var(--surface);
+  border: 2px solid var(--ink);
+  padding: 1.5rem;
+  box-shadow: 3px 3px 0px rgba(48, 37, 42, 0.08);
+  border-radius: 0px;
+}
+
+.card-subtle {
+  background-color: var(--surface);
+  border: 1.5px solid var(--border-ui);
+  padding: 1.25rem;
+  border-radius: 0px;
+}
+
+/* Editorial Dossier Nav Items */
+.dossier-nav-item {
+  transition: transform 0.18s cubic-bezier(0.16, 1, 0.3, 1), background-color 0.15s ease, border-color 0.15s ease;
+}
+
+.dossier-nav-item:hover:not(.active-tab) {
+  transform: translateX(4px);
+  background-color: rgba(255, 229, 154, 0.3);
+  color: var(--ink);
+}
+
+/* Active Index Tab Stamp */
+.dossier-nav-item.active-tab {
+  background-color: var(--butter);
+  color: var(--ink);
+  border-left: 5px solid var(--cherry);
+  box-shadow: inset -1px 0 0 rgba(48, 37, 42, 0.1);
+  font-weight: 800;
+}
+
+/* Custom Editorial Scrollbar */
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+::-webkit-scrollbar-track {
+  background: #FAF6EC;
+}
+::-webkit-scrollbar-thumb {
+  background: #30252A;
+  border-radius: 0px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #E94B4B;
+}
+
+.sidebar-scroll {
+  overflow-y: auto;
+  overflow-x: hidden;
+  scrollbar-width: thin;
+  scrollbar-color: #30252A #FAF6EC;
+}
+

@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>WatchLens</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <div class="header">
+    <div class="logo">
+      WATCH<span class="highlight">LENS</span>
+    </div>
+    <div class="badge">LIVE ENGINE</div>
+  </div>
+
+  <div class="content">
+    <div class="section-title">PAGE ANALYSIS</div>
+    
+    <div id="initial-state">
+      <p class="description">
+        Extract visible reviews from this page to scan for coordinated patterns using the local CoordinateWatch engine.
+      </p>
+      <button id="scan-btn" class="btn btn-primary">SCAN THIS PAGE</button>
+    </div>
+
+    <div id="loading-state" class="hidden">
+      <div class="spinner"></div>
+      <p class="status-text">Streaming reviews to local engine...</p>
+    </div>
+
+    <div id="results-state" class="hidden">
+      <div class="kpi-box">
+        <div class="kpi-item">
+          <span class="kpi-label">Reviews Observed</span>
+          <span id="res-count" class="kpi-val">0</span>
+        </div>
+        <div class="kpi-item">
+          <span class="kpi-label">Risk Level</span>
+          <span id="res-level" class="risk-badge">LOW</span>
+        </div>
+      </div>
+
+      <div class="score-card">
+        <span class="score-label">COORDINATION RISK</span>
+        <div class="score-display">
+          <span id="res-score" class="score-num">0</span>
+          <span class="score-total">/ 100</span>
+        </div>
+      </div>
+
+      <div class="signals-box">
+        <div class="signals-title">DETECTED SIGNALS</div>
+        <ul id="signals-list" class="signals-list">
+          <!-- Populated by JS -->
+        </ul>
+      </div>
+
+      <div class="actions">
+        <button id="rescan-btn" class="btn btn-secondary">RE-SCAN</button>
+        <button id="open-dash-btn" class="btn btn-primary">VIEW FULL ANALYSIS</button>
+      </div>
+    </div>
+
+    <div id="error-state" class="hidden">
+      <p id="error-msg" class="error-text">Failed to connect to local CoordinateWatch backend at http://localhost:8000.</p>
+      <button id="retry-btn" class="btn btn-secondary">TRY AGAIN</button>
+    </div>
+  </div>
+
+  <div class="footer">
+    <span>CoordinateWatch AI • Editorial Trust Engine</span>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>

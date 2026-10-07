@@ -1,0 +1,115 @@
+﻿review_id,product_id,product_name,platform,reviewer_id,rating,review_text,timestamp,verified_purchase
+REV_AMZ_0070,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1020,5,"Best earbuds I have ever owned, absolutely amazing sound quality! Must buy.",2024-09-14 21:51:00,True
+REV_AMZ_0029,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1004,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Great battery life too.",2024-09-15 08:50:00,True
+REV_AMZ_ORG_0001,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_7618,5,Microphone is somewhat muffled during outdoor calls.,2024-09-29 22:00:00,False
+REV_AMZ_ORG_0003,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_5423,3,Microphone is somewhat muffled during outdoor calls.,2024-09-18 18:00:00,False
+REV_AMZ_ORG_0021,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_7895,3,"Fair quality overall, nothing exceptional but gets the job done.",2024-09-07 20:00:00,False
+REV_AMZ_0073,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1023,5,"Sound quality is absolutely amazing, best earbuds I have ever owned! Super fast delivery.",2024-09-14 14:33:00,True
+REV_AMZ_0076,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1001,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Highly recommend to everyone.",2024-09-15 08:51:00,True
+REV_AMZ_0072,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1022,5,"Sound quality is absolutely amazing, best earbuds I have ever owned! Super fast delivery.",2024-09-14 17:57:00,True
+REV_AMZ_0055,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1005,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Great battery life too.",2024-09-15 06:51:00,True
+REV_AMZ_0006,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1006,5,"Best earbuds I have ever owned, absolutely amazing sound quality! Must buy.",2024-09-14 10:08:00,True
+REV_AMZ_ORG_0010,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_7729,4,Microphone is somewhat muffled during outdoor calls.,2024-09-25 23:00:00,False
+REV_AMZ_ORG_0024,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_6110,2,"Decent bass for the price, but case feels cheap.",2024-09-11 18:00:00,True
+REV_AMZ_ORG_0029,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_7765,4,"Comfortable fit during runs, battery lasts about 4 hours.",2024-09-07 22:00:00,True
+REV_AMZ_0030,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1005,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Highly recommend to everyone.",2024-09-14 13:00:00,True
+REV_AMZ_ORG_0002,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_6525,4,"Fair quality overall, nothing exceptional but gets the job done.",2024-09-23 02:00:00,True
+REV_AMZ_0039,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1014,5,"Sound quality is absolutely amazing, best earbuds I have ever owned! Super fast delivery.",2024-09-15 04:41:00,True
+REV_AMZ_0079,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1004,5,"Best earbuds I have ever owned, absolutely amazing sound quality! Must buy.",2024-09-14 21:36:00,True
+REV_AMZ_0002,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1002,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Highly recommend to everyone.",2024-09-15 03:19:00,True
+REV_AMZ_ORG_0038,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_8561,4,Microphone is somewhat muffled during outdoor calls.,2024-09-11 09:00:00,False
+REV_AMZ_0078,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1003,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Great battery life too.",2024-09-15 07:19:00,True
+REV_AMZ_ORG_0006,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_5733,2,"Decent bass for the price, but case feels cheap.",2024-09-04 01:00:00,False
+REV_AMZ_0009,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1009,5,"Sound quality is absolutely amazing, best earbuds I have ever owned! Super fast delivery.",2024-09-14 23:58:00,True
+REV_AMZ_ORG_0004,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_9452,5,"Fair quality overall, nothing exceptional but gets the job done.",2024-10-02 04:00:00,False
+REV_AMZ_ORG_0030,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_6556,5,"Comfortable fit during runs, battery lasts about 4 hours.",2024-09-01 22:00:00,False
+REV_AMZ_0077,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1002,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Highly recommend to everyone.",2024-09-14 05:05:00,True
+REV_AMZ_0075,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1000,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Highly recommend to everyone.",2024-09-14 23:54:00,True
+REV_AMZ_0068,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1018,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Highly recommend to everyone.",2024-09-14 10:56:00,True
+REV_AMZ_0063,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1013,5,"Sound quality is absolutely amazing, best earbuds I have ever owned! Super fast delivery.",2024-09-14 00:50:00,True
+REV_AMZ_0060,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1010,5,"Sound quality is absolutely amazing, best earbuds I have ever owned! Super fast delivery.",2024-09-14 22:59:00,True
+REV_AMZ_0015,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1015,5,"Best earbuds I have ever owned, absolutely amazing sound quality! Must buy.",2024-09-14 16:14:00,True
+REV_AMZ_0051,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1001,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Highly recommend to everyone.",2024-09-14 16:41:00,True
+REV_AMZ_ORG_0008,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_8978,5,"Fair quality overall, nothing exceptional but gets the job done.",2024-09-19 01:00:00,True
+REV_AMZ_ORG_0037,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_7093,2,"Decent bass for the price, but case feels cheap.",2024-09-22 09:00:00,False
+REV_AMZ_0033,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1008,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Highly recommend to everyone.",2024-09-14 07:24:00,True
+REV_AMZ_0000,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1000,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Great battery life too.",2024-09-15 08:55:00,True
+REV_AMZ_0022,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1022,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Highly recommend to everyone.",2024-09-14 14:38:00,True
+REV_AMZ_ORG_0009,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_7805,4,"Comfortable fit during runs, battery lasts about 4 hours.",2024-09-19 01:00:00,True
+REV_AMZ_0018,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1018,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Highly recommend to everyone.",2024-09-14 10:59:00,True
+REV_AMZ_0054,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1004,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Highly recommend to everyone.",2024-09-14 00:33:00,True
+REV_AMZ_0046,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1021,5,"Sound quality is absolutely amazing, best earbuds I have ever owned! Super fast delivery.",2024-09-14 00:17:00,True
+REV_AMZ_ORG_0013,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_5771,4,"Fair quality overall, nothing exceptional but gets the job done.",2024-09-18 10:00:00,True
+REV_AMZ_ORG_0028,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_8942,4,"Decent bass for the price, but case feels cheap.",2024-09-17 12:00:00,False
+REV_AMZ_0052,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1002,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Highly recommend to everyone.",2024-09-14 01:58:00,True
+REV_AMZ_0069,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1019,5,"Sound quality is absolutely amazing, best earbuds I have ever owned! Super fast delivery.",2024-09-14 08:17:00,True
+REV_AMZ_ORG_0034,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_8289,4,"Decent bass for the price, but case feels cheap.",2024-09-17 07:00:00,True
+REV_AMZ_0007,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1007,5,"Best earbuds I have ever owned, absolutely amazing sound quality! Must buy.",2024-09-15 10:47:00,True
+REV_AMZ_0019,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1019,5,"Best earbuds I have ever owned, absolutely amazing sound quality! Must buy.",2024-09-14 13:54:00,True
+REV_AMZ_0056,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1006,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Great battery life too.",2024-09-14 14:20:00,True
+REV_AMZ_0049,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1024,5,"Sound quality is absolutely amazing, best earbuds I have ever owned! Super fast delivery.",2024-09-14 18:04:00,True
+REV_AMZ_0042,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1017,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Highly recommend to everyone.",2024-09-14 21:03:00,True
+REV_AMZ_0031,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1006,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Great battery life too.",2024-09-15 00:09:00,True
+REV_AMZ_ORG_0033,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_6269,5,"Comfortable fit during runs, battery lasts about 4 hours.",2024-09-11 17:00:00,True
+REV_AMZ_0057,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1007,5,"Sound quality is absolutely amazing, best earbuds I have ever owned! Super fast delivery.",2024-09-15 02:31:00,True
+REV_AMZ_0024,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1024,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Great battery life too.",2024-09-14 15:41:00,True
+REV_AMZ_0017,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1017,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Great battery life too.",2024-09-14 12:54:00,True
+REV_AMZ_0066,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1016,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Highly recommend to everyone.",2024-09-14 15:55:00,True
+REV_AMZ_ORG_0014,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_7365,5,"Fair quality overall, nothing exceptional but gets the job done.",2024-09-09 22:00:00,False
+REV_AMZ_ORG_0012,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_6111,3,"Comfortable fit during runs, battery lasts about 4 hours.",2024-09-10 21:00:00,False
+REV_AMZ_0023,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1023,5,"Sound quality is absolutely amazing, best earbuds I have ever owned! Super fast delivery.",2024-09-14 02:56:00,True
+REV_AMZ_0005,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1005,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Great battery life too.",2024-09-14 08:30:00,True
+REV_AMZ_ORG_0036,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_5108,5,Microphone is somewhat muffled during outdoor calls.,2024-09-11 15:00:00,False
+REV_AMZ_0045,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1020,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Highly recommend to everyone.",2024-09-14 15:40:00,True
+REV_AMZ_0016,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1016,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Great battery life too.",2024-09-14 17:54:00,True
+REV_AMZ_0048,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1023,5,"Best earbuds I have ever owned, absolutely amazing sound quality! Must buy.",2024-09-15 09:33:00,True
+REV_AMZ_0003,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1003,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Highly recommend to everyone.",2024-09-15 04:09:00,True
+REV_AMZ_0050,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1000,5,"Sound quality is absolutely amazing, best earbuds I have ever owned! Super fast delivery.",2024-09-14 09:51:00,True
+REV_AMZ_0037,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1012,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Great battery life too.",2024-09-14 05:06:00,True
+REV_AMZ_0067,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1017,5,"Sound quality is absolutely amazing, best earbuds I have ever owned! Super fast delivery.",2024-09-14 13:52:00,True
+REV_AMZ_ORG_0023,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_6757,5,"Fair quality overall, nothing exceptional but gets the job done.",2024-09-04 06:00:00,False
+REV_AMZ_0074,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1024,5,"Best earbuds I have ever owned, absolutely amazing sound quality! Must buy.",2024-09-14 19:14:00,True
+REV_AMZ_ORG_0039,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_7785,5,"Decent bass for the price, but case feels cheap.",2024-09-30 15:00:00,True
+REV_AMZ_0036,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1011,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Highly recommend to everyone.",2024-09-14 22:24:00,True
+REV_AMZ_0059,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1009,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Highly recommend to everyone.",2024-09-15 07:52:00,True
+REV_AMZ_ORG_0031,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_6653,4,"Decent bass for the price, but case feels cheap.",2024-09-08 19:00:00,True
+REV_AMZ_0038,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1013,5,"Sound quality is absolutely amazing, best earbuds I have ever owned! Super fast delivery.",2024-09-14 04:29:00,True
+REV_AMZ_ORG_0016,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_6632,4,"Fair quality overall, nothing exceptional but gets the job done.",2024-09-25 02:00:00,True
+REV_AMZ_ORG_0017,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_6516,4,"Fair quality overall, nothing exceptional but gets the job done.",2024-09-20 16:00:00,False
+REV_AMZ_0053,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1003,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Highly recommend to everyone.",2024-09-14 21:45:00,True
+REV_AMZ_ORG_0032,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_9745,4,"Decent bass for the price, but case feels cheap.",2024-09-14 02:00:00,False
+REV_AMZ_ORG_0035,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_5799,4,"Comfortable fit during runs, battery lasts about 4 hours.",2024-09-23 08:00:00,True
+REV_AMZ_0043,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1018,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Great battery life too.",2024-09-14 15:50:00,True
+REV_AMZ_ORG_0027,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_9654,3,"Comfortable fit during runs, battery lasts about 4 hours.",2024-09-15 04:00:00,False
+REV_AMZ_0044,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1019,5,"Sound quality is absolutely amazing, best earbuds I have ever owned! Super fast delivery.",2024-09-14 22:40:00,True
+REV_AMZ_0065,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1015,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Great battery life too.",2024-09-15 08:20:00,True
+REV_AMZ_ORG_0005,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_8697,4,Microphone is somewhat muffled during outdoor calls.,2024-09-15 19:00:00,True
+REV_AMZ_0035,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1010,5,"Sound quality is absolutely amazing, best earbuds I have ever owned! Super fast delivery.",2024-09-15 06:17:00,True
+REV_AMZ_0028,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1003,5,"Best earbuds I have ever owned, absolutely amazing sound quality! Must buy.",2024-09-14 21:04:00,True
+REV_AMZ_ORG_0015,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_9440,3,Microphone is somewhat muffled during outdoor calls.,2024-09-03 01:00:00,True
+REV_AMZ_0041,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1016,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Highly recommend to everyone.",2024-09-15 06:05:00,True
+REV_AMZ_0004,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1004,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Highly recommend to everyone.",2024-09-14 04:28:00,True
+REV_AMZ_ORG_0020,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_7530,3,"Decent bass for the price, but case feels cheap.",2024-09-04 12:00:00,True
+REV_AMZ_ORG_0018,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_9366,2,"Decent bass for the price, but case feels cheap.",2024-09-10 20:00:00,True
+REV_AMZ_0061,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1011,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Great battery life too.",2024-09-14 20:32:00,True
+REV_AMZ_0047,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1022,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Highly recommend to everyone.",2024-09-15 08:47:00,True
+REV_AMZ_0032,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1007,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Great battery life too.",2024-09-14 17:09:00,True
+REV_AMZ_0062,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1012,5,"Sound quality is absolutely amazing, best earbuds I have ever owned! Super fast delivery.",2024-09-14 13:55:00,True
+REV_AMZ_0008,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1008,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Highly recommend to everyone.",2024-09-14 03:08:00,True
+REV_AMZ_0064,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1014,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Highly recommend to everyone.",2024-09-15 06:36:00,True
+REV_AMZ_0014,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1014,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Great battery life too.",2024-09-14 14:11:00,True
+REV_AMZ_0040,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1015,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Highly recommend to everyone.",2024-09-14 17:13:00,True
+REV_AMZ_ORG_0025,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_8892,5,"Comfortable fit during runs, battery lasts about 4 hours.",2024-09-30 18:00:00,True
+REV_AMZ_0001,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1001,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Great battery life too.",2024-09-15 09:08:00,True
+REV_AMZ_ORG_0000,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_6628,4,"Decent bass for the price, but case feels cheap.",2024-09-13 09:00:00,True
+REV_AMZ_0034,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1009,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Great battery life too.",2024-09-15 02:41:00,True
+REV_AMZ_ORG_0011,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_7264,4,Microphone is somewhat muffled during outdoor calls.,2024-09-01 12:00:00,False
+REV_AMZ_0013,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1013,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Highly recommend to everyone.",2024-09-15 04:40:00,True
+REV_AMZ_0058,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1008,5,"Sound quality is absolutely amazing, best earbuds I have ever owned! Super fast delivery.",2024-09-15 03:17:00,True
+REV_AMZ_0021,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1021,5,"Sound quality is absolutely amazing, best earbuds I have ever owned! Super fast delivery.",2024-09-14 06:23:00,True
+REV_AMZ_ORG_0019,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_5688,4,"Comfortable fit during runs, battery lasts about 4 hours.",2024-09-15 05:00:00,True
+REV_AMZ_ORG_0007,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_8234,2,"Decent bass for the price, but case feels cheap.",2024-09-27 14:00:00,False
+REV_AMZ_0020,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1020,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Great battery life too.",2024-09-15 11:18:00,True
+REV_AMZ_0071,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1021,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Highly recommend to everyone.",2024-09-14 11:05:00,True
+REV_AMZ_ORG_0026,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_5989,4,"Comfortable fit during runs, battery lasts about 4 hours.",2024-10-01 21:00:00,False
+REV_AMZ_ORG_0022,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_5614,4,"Comfortable fit during runs, battery lasts about 4 hours.",2024-09-11 12:00:00,True

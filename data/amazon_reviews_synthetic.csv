@@ -1,0 +1,574 @@
+review_id,product_id,product_name,platform,reviewer_id,rating,review_text,timestamp,verified_purchase
+REV_ORG_0063,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_8785,4,Takes up minimal counter space. Instructions were straightforward.,2024-09-28 18:14:00,True
+REV_AMZ_0070,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1020,5,"Best earbuds I have ever owned, absolutely amazing sound quality! Must buy.",2024-09-14 21:51:00,True
+REV_YT_0011,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_BOT_2011,5,"Trustworthy recovery service by Mr. Harrison, helped me get my funds back within 24h via telegram @cryptofix_official",2024-09-20 00:53:00,False
+REV_GP_0085,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4025,1,Scam app! Stole my money and customer care blocked my number! Do not download!,2024-09-24 07:38:00,False
+REV_ORG_0094,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_9354,5,Takes up minimal counter space. Instructions were straightforward.,2024-09-19 15:32:00,True
+REV_GP_0001,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4001,1,"Worst banking app ever, complete fraud, customer support never answers!",2024-09-23 23:41:00,False
+REV_YT_ORG_0003,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_USER_5079,3,Could you cover flash loan attacks next week?,2024-09-22 10:00:00,False
+REV_AMZ_0029,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1004,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Great battery life too.",2024-09-15 08:50:00,True
+REV_AMZ_ORG_0001,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_7618,5,Microphone is somewhat muffled during outdoor calls.,2024-09-29 22:00:00,False
+REV_MYN_ORG_0020,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_BUYER_7292,4,"Good everyday jacket, denim is sturdy.",2024-09-25 10:00:00,True
+REV_ORG_0015,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_9965,4,Arrived well packed and worked right out of the box.,2024-09-24 03:37:00,True
+REV_MYN_0058,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3018,5,"Superb fabric quality, perfect fitting and looks very stylish! Worth every single penny.",2024-09-07 22:02:00,True
+REV_ORG_0085,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_7756,4,Makes a solid cup of coffee every morning. Easy to clean the filter basket.,2024-09-20 08:59:00,True
+REV_MYN_0064,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3004,5,"Superb fabric quality, perfect fitting and looks very stylish! Worth every single penny.",2024-09-07 23:03:00,True
+REV_ORG_0081,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_8206,4,Arrived well packed and worked right out of the box.,2024-09-10 23:56:00,True
+REV_AMZ_ORG_0003,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_5423,3,Microphone is somewhat muffled during outdoor calls.,2024-09-18 18:00:00,False
+REV_MYN_0044,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3004,5,"Superb fabric quality, perfect fitting and looks very stylish! Worth every single penny.",2024-09-07 07:45:00,True
+REV_YT_0045,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_BOT_2000,5,I was skeptical until Mr. Harrison recovered my assets in less than 24 hours! Contact telegram @cryptofix_official,2024-09-20 06:58:00,False
+REV_AMZ_ORG_0021,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_7895,3,"Fair quality overall, nothing exceptional but gets the job done.",2024-09-07 20:00:00,False
+REV_MYN_0060,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3000,5,"Perfect fitting and looks very stylish, superb fabric quality! Highly recommended brand.",2024-09-07 22:30:00,True
+REV_AMZ_0073,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1023,5,"Sound quality is absolutely amazing, best earbuds I have ever owned! Super fast delivery.",2024-09-14 14:33:00,True
+REV_ORG_0019,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_8261,1,Good value drip coffee maker for daily family use.,2024-09-21 05:39:00,True
+REV_ORG_0064,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_9322,5,"Standard machine, does what it advertises without unnecessary bells and whistles.",2024-09-18 15:21:00,True
+REV_MYN_ORG_0021,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_BUYER_5763,3,Color was slightly darker than shown in photos.,2024-09-17 10:00:00,True
+REV_GP_0045,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4015,1,"Total fraud app, stole my money and support blocked my number! Beware!",2024-09-24 04:16:00,False
+REV_AMZ_0076,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1001,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Highly recommend to everyone.",2024-09-15 08:51:00,True
+REV_MYN_0024,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3004,5,"Perfect fitting and looks very stylish, superb fabric quality! Highly recommended brand.",2024-09-07 21:11:00,True
+REV_ORG_0109,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_7317,4,"Standard machine, does what it advertises without unnecessary bells and whistles.",2024-10-02 07:40:00,True
+REV_MYN_0018,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3018,5,"Superb fabric quality, perfect fitting and looks very stylish! Worth every single penny.",2024-09-08 02:34:00,True
+REV_AMZ_0072,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1022,5,"Sound quality is absolutely amazing, best earbuds I have ever owned! Super fast delivery.",2024-09-14 17:57:00,True
+REV_ORG_0087,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_8751,4,Good value drip coffee maker for daily family use.,2024-09-09 06:21:00,True
+REV_GP_0073,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4013,1,"Total fraud app, stole my money and support blocked my number! Beware!",2024-09-24 10:20:00,False
+REV_GP_ORG_0022,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_USER_9135,5,Wish there were more cashback partner merchants.,2024-09-20 10:00:00,True
+REV_ORG_0086,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_8341,4,Glass carafe feels durable and doesn't drip when pouring.,2024-09-09 12:29:00,True
+REV_MYN_0014,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3014,5,"Very stylish look with superb fabric quality, fits true to size!",2024-09-08 00:48:00,True
+REV_AMZ_0055,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1005,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Great battery life too.",2024-09-15 06:51:00,True
+REV_AMZ_0010,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1010,5,,2024-09-14 12:27:00,True
+REV_YT_ORG_0007,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_USER_6983,4,"Great production quality, subscribed!",2024-09-21 10:00:00,False
+REV_AMZ_0006,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1006,5,"Best earbuds I have ever owned, absolutely amazing sound quality! Must buy.",2024-09-14 10:08:00,True
+REV_AMZ_ORG_0010,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_7729,4,Microphone is somewhat muffled during outdoor calls.,2024-09-25 23:00:00,False
+REV_AMZ_ORG_0024,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_6110,2,"Decent bass for the price, but case feels cheap.",2024-09-11 18:00:00,True
+REV_GP_0040,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4010,1,"Total fraud app, stole my money and support blocked my number! Beware!",2024-09-24 11:05:00,False
+REV_GP_0049,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4019,1,"Total fraud app, stole my money and support blocked my number! Beware!",2024-09-24 04:43:00,False
+REV_YT_ORG_0010,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_USER_9326,4,"Great production quality, subscribed!",2024-09-28 10:00:00,False
+REV_YT_0043,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_BOT_2013,5,I was skeptical until Mr. Harrison recovered my assets in less than 24 hours! Contact telegram @cryptofix_official,2024-09-20 09:19:00,False
+REV_AMZ_ORG_0029,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_7765,4,"Comfortable fit during runs, battery lasts about 4 hours.",2024-09-07 22:00:00,True
+REV_GP_0016,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4016,1,Scam app! Stole my money and customer care blocked my number! Do not download!,2024-09-24 09:08:00,False
+REV_ORG_0111,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_8595,5,"Coffee temperature could be a few degrees hotter, but overall satisfied.",2024-09-11 05:34:00,True
+REV_YT_0047,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_BOT_2002,5,"Trustworthy recovery service by Mr. Harrison, helped me get my funds back within 24h via telegram @cryptofix_official",2024-09-20 02:49:00,False
+REV_MYN_0069,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3009,5,"Superb fabric quality, perfect fitting and looks very stylish! Worth every single penny.",2024-09-08 01:58:00,True
+REV_GP_0012,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4012,1,"Worst banking app ever, complete fraud, customer support never answers!",2024-09-24 09:05:00,False
+REV_AMZ_0030,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1005,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Highly recommend to everyone.",2024-09-14 13:00:00,True
+REV_YT_0035,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_BOT_2005,5,"Trustworthy recovery service by Mr. Harrison, helped me get my funds back within 24h via telegram @cryptofix_official",2024-09-20 06:47:00,False
+REV_YT_0028,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_BOT_2013,5,"Trustworthy recovery service by Mr. Harrison, helped me get my funds back within 24h via telegram @cryptofix_official",2024-09-20 09:56:00,False
+REV_ORG_0017,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_8074,3,"Timer function is handy, though the heating plate turns off a bit early.",2024-09-08 14:15:00,True
+REV_GP_0079,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4019,1,"Total fraud app, stole my money and support blocked my number! Beware!",2024-09-24 04:23:00,False
+REV_MYN_0015,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3015,5,"Perfect fitting and looks very stylish, superb fabric quality! Highly recommended brand.",2024-09-07 05:28:00,True
+REV_AMZ_ORG_0002,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_6525,4,"Fair quality overall, nothing exceptional but gets the job done.",2024-09-23 02:00:00,True
+REV_AMZ_0039,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1014,5,"Sound quality is absolutely amazing, best earbuds I have ever owned! Super fast delivery.",2024-09-15 04:41:00,True
+REV_ORG_0101,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_9015,3,Good value drip coffee maker for daily family use.,2024-09-01 23:39:00,True
+REV_AMZ_0079,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1004,5,"Best earbuds I have ever owned, absolutely amazing sound quality! Must buy.",2024-09-14 21:36:00,True
+REV_AMZ_0002,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1002,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Highly recommend to everyone.",2024-09-15 03:19:00,True
+REV_ORG_0118,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_7688,5,Takes up minimal counter space. Instructions were straightforward.,2024-09-10 17:47:00,False
+REV_ORG_0090,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_7035,4,Takes up minimal counter space. Instructions were straightforward.,2024-09-13 18:25:00,True
+REV_YT_ORG_0018,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_USER_8588,5,"Great production quality, subscribed!",2024-09-23 10:00:00,False
+REV_ORG_0071,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_7116,5,"Coffee temperature could be a few degrees hotter, but overall satisfied.",2024-09-22 08:13:00,False
+REV_AMZ_ORG_0038,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_8561,4,Microphone is somewhat muffled during outdoor calls.,2024-09-11 09:00:00,False
+REV_AMZ_0078,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1003,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Great battery life too.",2024-09-15 07:19:00,True
+REV_YT_ORG_0033,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_USER_5118,4,Audio levels are a bit low in the second half.,2024-09-30 10:00:00,False
+REV_GP_ORG_0002,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_USER_9766,4,Biometric login works seamlessly on Android 14.,2024-09-21 10:00:00,True
+REV_GP_0013,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4013,1,"Worst banking app ever, complete fraud, customer support never answers!",2024-09-23 23:08:00,False
+REV_AMZ_0011,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1011,5,,2024-09-14 03:08:00,True
+REV_GP_0083,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4023,1,Do not download this scam app! They took my deposit and blocked my account.,2024-09-23 22:15:00,False
+REV_ORG_0061,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_9629,5,Auto shut-off feature gives peace of mind when rushing out.,2024-09-11 11:31:00,True
+REV_GP_0057,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4027,1,Scam app! Stole my money and customer care blocked my number! Do not download!,2024-09-23 23:41:00,False
+REV_GP_0026,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4026,1,Scam app! Stole my money and customer care blocked my number! Do not download!,2024-09-24 09:21:00,False
+REV_ORG_0059,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_8089,5,"Timer function is handy, though the heating plate turns off a bit early.",2024-09-27 14:01:00,True
+REV_MYN_0039,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3019,5,"Worth every single penny! Superb fabric quality, perfect fitting and arrived on time.",2024-09-08 04:33:00,True
+REV_YT_0025,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_BOT_2010,5,Big thanks to Mr. Harrison for recovering my crypto investment in 24 hours! Reach out @cryptofix_official,2024-09-20 05:54:00,False
+REV_GP_ORG_0013,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_USER_9075,4,"Simple, reliable, no complaints.",2024-09-12 10:00:00,True
+REV_YT_0012,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_BOT_2012,5,Big thanks to Mr. Harrison for recovering my crypto investment in 24 hours! Reach out @cryptofix_official,2024-09-20 00:50:00,False
+REV_YT_0064,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_BOT_2004,5,Big thanks to Mr. Harrison for recovering my crypto investment in 24 hours! Reach out @cryptofix_official,2024-09-20 03:33:00,False
+REV_AMZ_ORG_0006,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_5733,2,"Decent bass for the price, but case feels cheap.",2024-09-04 01:00:00,False
+REV_MYN_0011,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3011,5,"Superb fabric quality, perfect fitting and looks very stylish! Worth every single penny.",2024-09-07 22:55:00,True
+REV_YT_ORG_0023,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_USER_7992,5,Really insightful video on smart contract vulnerabilities.,2024-09-18 10:00:00,False
+REV_MYN_0041,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3001,5,"Superb fabric quality, perfect fitting and looks very stylish! Worth every single penny.",2024-09-07 17:40:00,True
+REV_AMZ_0009,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1009,5,"Sound quality is absolutely amazing, best earbuds I have ever owned! Super fast delivery.",2024-09-14 23:58:00,True
+REV_ORG_0027,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_7410,5,"Standard machine, does what it advertises without unnecessary bells and whistles.",2024-09-30 03:03:00,False
+REV_MYN_0052,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3012,5,"Worth every single penny! Superb fabric quality, perfect fitting and arrived on time.",2024-09-07 08:31:00,True
+REV_ORG_0062,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_9021,1,Takes up minimal counter space. Instructions were straightforward.,2024-09-10 17:54:00,True
+REV_AMZ_ORG_0004,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_9452,5,"Fair quality overall, nothing exceptional but gets the job done.",2024-10-02 04:00:00,False
+REV_GP_ORG_0029,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_USER_5525,5,Biometric login works seamlessly on Android 14.,2024-09-08 10:00:00,True
+REV_GP_0021,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4021,1,Do not download this scam app! They took my deposit and blocked my account.,2024-09-24 08:10:00,False
+REV_ORG_0095,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_8502,3,Glass carafe feels durable and doesn't drip when pouring.,2024-09-15 10:08:00,False
+REV_GP_0078,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4018,1,"Worst banking app ever, complete fraud, customer support never answers!",2024-09-23 21:14:00,False
+REV_AMZ_ORG_0030,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_6556,5,"Comfortable fit during runs, battery lasts about 4 hours.",2024-09-01 22:00:00,False
+REV_ORG_0119,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_9690,4,"Coffee temperature could be a few degrees hotter, but overall satisfied.",2024-09-28 12:06:00,False
+REV_YT_ORG_0019,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_USER_5010,4,Could you cover flash loan attacks next week?,2024-09-30 10:00:00,False
+REV_YT_ORG_0024,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_USER_9145,4,Audio levels are a bit low in the second half.,2024-09-13 10:00:00,False
+REV_YT_0033,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_BOT_2003,5,I was skeptical until Mr. Harrison recovered my assets in less than 24 hours! Contact telegram @cryptofix_official,2024-09-19 21:37:00,False
+REV_GP_0020,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4020,1,Scam app! Stole my money and customer care blocked my number! Do not download!,2024-09-24 09:06:00,False
+REV_YT_0020,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_BOT_2005,5,Mr. Harrison helped me recover my lost assets in less than 24 hours! Contact him on telegram @cryptofix_official,2024-09-20 08:27:00,False
+REV_AMZ_0077,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1002,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Highly recommend to everyone.",2024-09-14 05:05:00,True
+REV_GP_ORG_0006,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_USER_8345,4,Wish there were more cashback partner merchants.,2024-09-03 10:00:00,True
+REV_MYN_0037,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3017,5,"Perfect fitting and looks very stylish, superb fabric quality! Highly recommended brand.",2024-09-08 04:53:00,True
+REV_GP_0009,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4009,1,Do not download this scam app! They took my deposit and blocked my account.,2024-09-23 21:31:00,False
+REV_GP_ORG_0021,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_USER_5090,5,Clean UI and transfers are very fast.,2024-09-07 10:00:00,True
+REV_YT_0056,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_BOT_2011,5,Mr. Harrison helped me recover my lost assets in less than 24 hours! Contact him on telegram @cryptofix_official,2024-09-20 04:31:00,False
+REV_GP_ORG_0026,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_USER_7071,4,"Simple, reliable, no complaints.",2024-09-01 10:00:00,True
+REV_YT_ORG_0014,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_USER_7765,3,Really insightful video on smart contract vulnerabilities.,2024-09-05 10:00:00,False
+REV_AMZ_0075,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1000,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Highly recommend to everyone.",2024-09-14 23:54:00,True
+REV_MYN_0030,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3010,5,"Worth every single penny! Superb fabric quality, perfect fitting and arrived on time.",2024-09-07 16:51:00,True
+REV_ORG_0080,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_7629,4,Arrived well packed and worked right out of the box.,2024-09-12 09:18:00,True
+REV_ORG_0056,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_8319,5,Makes a solid cup of coffee every morning. Easy to clean the filter basket.,2024-09-28 10:09:00,False
+REV_AMZ_0068,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1018,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Highly recommend to everyone.",2024-09-14 10:56:00,True
+REV_YT_0062,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_BOT_2002,5,Mr. Harrison helped me recover my lost assets in less than 24 hours! Contact him on telegram @cryptofix_official,2024-09-19 23:29:00,False
+REV_AMZ_0063,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1013,5,"Sound quality is absolutely amazing, best earbuds I have ever owned! Super fast delivery.",2024-09-14 00:50:00,True
+REV_YT_0038,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_BOT_2008,5,"Trustworthy recovery service by Mr. Harrison, helped me get my funds back within 24h via telegram @cryptofix_official",2024-09-20 05:08:00,False
+REV_AMZ_0060,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1010,5,"Sound quality is absolutely amazing, best earbuds I have ever owned! Super fast delivery.",2024-09-14 22:59:00,True
+REV_AMZ_0015,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1015,5,"Best earbuds I have ever owned, absolutely amazing sound quality! Must buy.",2024-09-14 16:14:00,True
+REV_ORG_0050,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_7455,4,Arrived well packed and worked right out of the box.,2024-09-23 01:52:00,True
+REV_YT_0017,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_BOT_2002,5,Big thanks to Mr. Harrison for recovering my crypto investment in 24 hours! Reach out @cryptofix_official,2024-09-20 01:16:00,False
+REV_ORG_0036,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_7550,4,Takes up minimal counter space. Instructions were straightforward.,2024-09-26 09:51:00,True
+REV_AMZ_0051,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1001,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Highly recommend to everyone.",2024-09-14 16:41:00,True
+REV_AMZ_ORG_0008,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_8978,5,"Fair quality overall, nothing exceptional but gets the job done.",2024-09-19 01:00:00,True
+REV_ORG_0007,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_9301,4,Good value drip coffee maker for daily family use.,2024-09-10 23:18:00,True
+REV_AMZ_ORG_0037,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_7093,2,"Decent bass for the price, but case feels cheap.",2024-09-22 09:00:00,False
+REV_ORG_0073,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_7944,1,"Timer function is handy, though the heating plate turns off a bit early.",2024-09-19 07:12:00,True
+REV_GP_0051,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4021,1,Do not download this scam app! They took my deposit and blocked my account.,2024-09-24 00:56:00,False
+REV_AMZ_0033,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1008,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Highly recommend to everyone.",2024-09-14 07:24:00,True
+REV_AMZ_0000,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1000,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Great battery life too.",2024-09-15 08:55:00,True
+REV_ORG_0116,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_8340,4,Good value drip coffee maker for daily family use.,2024-09-14 21:23:00,True
+REV_MYN_ORG_0015,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_BUYER_7926,2,Color was slightly darker than shown in photos.,2024-09-25 10:00:00,True
+REV_MYN_ORG_0026,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_BUYER_7140,3,Sleeves are a bit tight around the cuffs.,2024-09-27 10:00:00,True
+REV_YT_ORG_0025,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_USER_9141,5,"Great production quality, subscribed!",2024-09-06 10:00:00,False
+REV_AMZ_0022,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1022,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Highly recommend to everyone.",2024-09-14 14:38:00,True
+REV_GP_0084,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4024,1,"Worst banking app ever, complete fraud, customer support never answers!",2024-09-24 00:02:00,False
+REV_MYN_0028,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3008,5,"Worth every single penny! Superb fabric quality, perfect fitting and arrived on time.",2024-09-08 03:03:00,True
+REV_AMZ_ORG_0009,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_7805,4,"Comfortable fit during runs, battery lasts about 4 hours.",2024-09-19 01:00:00,True
+REV_ORG_0099,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_9665,4,Makes a solid cup of coffee every morning. Easy to clean the filter basket.,2024-10-01 01:32:00,True
+REV_YT_0061,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_BOT_2001,5,Mr. Harrison helped me recover my lost assets in less than 24 hours! Contact him on telegram @cryptofix_official,2024-09-19 19:13:00,False
+REV_AMZ_0018,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1018,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Highly recommend to everyone.",2024-09-14 10:59:00,True
+REV_ORG_0082,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_8965,4,Auto shut-off feature gives peace of mind when rushing out.,2024-09-02 17:48:00,True
+REV_ORG_0003,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_9311,4,"Coffee temperature could be a few degrees hotter, but overall satisfied.",2024-09-06 11:57:00,True
+REV_YT_0024,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_BOT_2009,5,Big thanks to Mr. Harrison for recovering my crypto investment in 24 hours! Reach out @cryptofix_official,2024-09-20 00:58:00,False
+REV_ORG_0066,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_8024,3,Great upgrade from my old French press. Brews quickly.,2024-09-26 20:38:00,True
+REV_MYN_0025,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3005,5,"Very stylish look with superb fabric quality, fits true to size!",2024-09-07 21:27:00,True
+REV_ORG_0105,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_9685,4,Good value drip coffee maker for daily family use.,2024-09-08 09:15:00,True
+REV_MYN_0054,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3014,5,"Worth every single penny! Superb fabric quality, perfect fitting and arrived on time.",2024-09-07 11:28:00,True
+REV_YT_ORG_0000,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_USER_6944,3,Really insightful video on smart contract vulnerabilities.,2024-09-26 10:00:00,False
+REV_ORG_0045,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_8413,1,Takes up minimal counter space. Instructions were straightforward.,2024-09-10 09:16:00,False
+REV_AMZ_0054,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1004,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Highly recommend to everyone.",2024-09-14 00:33:00,True
+REV_GP_0000,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4000,1,Scam app! Stole my money and customer care blocked my number! Do not download!,2024-09-24 12:45:00,False
+REV_AMZ_0046,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1021,5,"Sound quality is absolutely amazing, best earbuds I have ever owned! Super fast delivery.",2024-09-14 00:17:00,True
+REV_AMZ_ORG_0013,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_5771,4,"Fair quality overall, nothing exceptional but gets the job done.",2024-09-18 10:00:00,True
+REV_ORG_0067,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_8368,3,"Coffee temperature could be a few degrees hotter, but overall satisfied.",2024-09-22 22:48:00,True
+REV_AMZ_ORG_0028,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_8942,4,"Decent bass for the price, but case feels cheap.",2024-09-17 12:00:00,False
+REV_MYN_0027,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3007,5,"Worth every single penny! Superb fabric quality, perfect fitting and arrived on time.",2024-09-07 20:27:00,True
+REV_AMZ_0052,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1002,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Highly recommend to everyone.",2024-09-14 01:58:00,True
+REV_GP_ORG_0032,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_USER_6625,5,Biometric login works seamlessly on Android 14.,2024-09-23 10:00:00,True
+REV_GP_0080,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4020,1,Scam app! Stole my money and customer care blocked my number! Do not download!,2024-09-24 11:00:00,False
+REV_YT_ORG_0026,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_USER_9733,4,Could you cover flash loan attacks next week?,2024-09-24 10:00:00,False
+REV_GP_0028,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4028,1,"Worst banking app ever, complete fraud, customer support never answers!",2024-09-24 02:09:00,False
+REV_ORG_0089,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_9243,5,"Coffee temperature could be a few degrees hotter, but overall satisfied.",2024-10-01 14:24:00,True
+REV_GP_0042,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4012,1,"Total fraud app, stole my money and support blocked my number! Beware!",2024-09-24 06:11:00,False
+REV_GP_0032,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4002,1,Scam app! Stole my money and customer care blocked my number! Do not download!,2024-09-24 13:00:00,False
+REV_GP_ORG_0024,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_USER_5138,5,"Simple, reliable, no complaints.",2024-09-22 10:00:00,True
+REV_AMZ_0069,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1019,5,"Sound quality is absolutely amazing, best earbuds I have ever owned! Super fast delivery.",2024-09-14 08:17:00,True
+REV_GP_ORG_0033,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_USER_7168,4,Biometric login works seamlessly on Android 14.,2024-09-29 10:00:00,True
+REV_YT_0057,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_BOT_2012,5,Big thanks to Mr. Harrison for recovering my crypto investment in 24 hours! Reach out @cryptofix_official,2024-09-20 02:03:00,False
+REV_MYN_0066,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3006,5,"Perfect fitting and looks very stylish, superb fabric quality! Highly recommended brand.",2024-09-07 11:25:00,True
+REV_GP_ORG_0012,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_USER_7716,5,Clean UI and transfers are very fast.,2024-09-10 10:00:00,True
+REV_YT_0029,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_BOT_2014,5,"Trustworthy recovery service by Mr. Harrison, helped me get my funds back within 24h via telegram @cryptofix_official",2024-09-19 21:01:00,False
+REV_YT_0004,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_BOT_2004,5,"Trustworthy recovery service by Mr. Harrison, helped me get my funds back within 24h via telegram @cryptofix_official",2024-09-20 11:42:00,False
+REV_GP_ORG_0019,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_USER_7903,5,"Simple, reliable, no complaints.",2024-09-09 10:00:00,True
+REV_YT_ORG_0011,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_USER_6474,4,Could you cover flash loan attacks next week?,2024-09-04 10:00:00,False
+REV_MYN_0045,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3005,5,"Perfect fitting and looks very stylish, superb fabric quality! Highly recommended brand.",2024-09-07 12:44:00,True
+REV_GP_ORG_0039,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_USER_5974,5,"Simple, reliable, no complaints.",2024-09-04 10:00:00,True
+REV_ORG_0075,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_9581,4,Glass carafe feels durable and doesn't drip when pouring.,2024-09-13 18:53:00,True
+REV_GP_0087,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4027,1,Scam app! Stole my money and customer care blocked my number! Do not download!,2024-09-23 23:45:00,False
+REV_GP_0014,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4014,1,Scam app! Stole my money and customer care blocked my number! Do not download!,2024-09-23 22:35:00,False
+REV_ORG_0077,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_9021,5,Makes a solid cup of coffee every morning. Easy to clean the filter basket.,2024-09-13 14:01:00,True
+REV_ORG_0020,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_9997,5,"Coffee temperature could be a few degrees hotter, but overall satisfied.",2024-09-27 14:26:00,True
+REV_AMZ_ORG_0034,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_8289,4,"Decent bass for the price, but case feels cheap.",2024-09-17 07:00:00,True
+REV_YT_0021,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_BOT_2006,5,Big thanks to Mr. Harrison for recovering my crypto investment in 24 hours! Reach out @cryptofix_official,2024-09-20 09:40:00,False
+REV_MYN_ORG_0019,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_BUYER_6762,4,Sleeves are a bit tight around the cuffs.,2024-10-01 10:00:00,True
+REV_AMZ_0007,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1007,5,"Best earbuds I have ever owned, absolutely amazing sound quality! Must buy.",2024-09-15 10:47:00,True
+REV_ORG_0093,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_9766,4,Good value drip coffee maker for daily family use.,2024-09-11 03:52:00,True
+REV_AMZ_0019,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1019,5,"Best earbuds I have ever owned, absolutely amazing sound quality! Must buy.",2024-09-14 13:54:00,True
+REV_YT_0052,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_BOT_2007,5,Mr. Harrison helped me recover my lost assets in less than 24 hours! Contact him on telegram @cryptofix_official,2024-09-20 01:39:00,False
+REV_GP_ORG_0005,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_USER_9289,5,Biometric login works seamlessly on Android 14.,2024-09-02 10:00:00,True
+REV_AMZ_0056,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1006,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Great battery life too.",2024-09-14 14:20:00,True
+REV_MYN_0055,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3015,5,"Superb fabric quality, perfect fitting and looks very stylish! Worth every single penny.",2024-09-07 05:51:00,True
+REV_MYN_ORG_0029,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_BUYER_5043,4,Color was slightly darker than shown in photos.,2024-09-19 10:00:00,True
+REV_GP_ORG_0004,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_USER_5161,4,"Simple, reliable, no complaints.",2024-09-13 10:00:00,True
+REV_GP_0044,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4014,1,"Total fraud app, stole my money and support blocked my number! Beware!",2024-09-24 03:24:00,False
+REV_GP_0068,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4008,1,"Worst banking app ever, complete fraud, customer support never answers!",2024-09-24 09:32:00,False
+REV_AMZ_0049,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1024,5,"Sound quality is absolutely amazing, best earbuds I have ever owned! Super fast delivery.",2024-09-14 18:04:00,True
+REV_GP_ORG_0009,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_USER_6577,4,Clean UI and transfers are very fast.,2024-09-19 10:00:00,True
+REV_AMZ_0025,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1000,5,   ,2024-09-14 10:52:00,True
+REV_GP_ORG_0011,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_USER_5438,4,Clean UI and transfers are very fast.,2024-09-27 10:00:00,True
+REV_GP_0047,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4017,1,Do not download this scam app! They took my deposit and blocked my account.,2024-09-24 12:36:00,False
+REV_MYN_0051,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3011,5,"Perfect fitting and looks very stylish, superb fabric quality! Highly recommended brand.",2024-09-08 04:48:00,True
+REV_AMZ_0042,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1017,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Highly recommend to everyone.",2024-09-14 21:03:00,True
+REV_GP_0061,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4001,1,"Total fraud app, stole my money and support blocked my number! Beware!",2024-09-24 01:39:00,False
+REV_MYN_0008,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3008,5,"Very stylish look with superb fabric quality, fits true to size!",2024-09-08 00:02:00,True
+REV_ORG_0096,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_9528,3,Takes up minimal counter space. Instructions were straightforward.,2024-09-04 03:41:00,False
+REV_GP_0018,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4018,1,"Total fraud app, stole my money and support blocked my number! Beware!",2024-09-24 02:20:00,False
+REV_GP_0029,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4029,1,Scam app! Stole my money and customer care blocked my number! Do not download!,2024-09-24 01:02:00,False
+REV_YT_0034,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_BOT_2004,5,Mr. Harrison helped me recover my lost assets in less than 24 hours! Contact him on telegram @cryptofix_official,2024-09-20 06:41:00,False
+REV_YT_0006,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_BOT_2006,5,I was skeptical until Mr. Harrison recovered my assets in less than 24 hours! Contact telegram @cryptofix_official,2024-09-19 19:47:00,False
+REV_MYN_0061,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3001,5,"Worth every single penny! Superb fabric quality, perfect fitting and arrived on time.",2024-09-07 05:56:00,True
+REV_GP_0053,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4023,1,Do not download this scam app! They took my deposit and blocked my account.,2024-09-24 01:05:00,False
+REV_ORG_0042,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_7315,5,Takes up minimal counter space. Instructions were straightforward.,2024-10-02 01:34:00,True
+REV_YT_0054,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_BOT_2009,5,"Trustworthy recovery service by Mr. Harrison, helped me get my funds back within 24h via telegram @cryptofix_official",2024-09-19 22:52:00,False
+REV_AMZ_0031,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1006,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Great battery life too.",2024-09-15 00:09:00,True
+REV_AMZ_ORG_0033,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_6269,5,"Comfortable fit during runs, battery lasts about 4 hours.",2024-09-11 17:00:00,True
+REV_GP_ORG_0000,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_USER_8993,5,Wish there were more cashback partner merchants.,2024-09-01 10:00:00,True
+REV_YT_0053,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_BOT_2008,5,Mr. Harrison helped me recover my lost assets in less than 24 hours! Contact him on telegram @cryptofix_official,2024-09-20 10:41:00,False
+REV_MYN_0067,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3007,5,"Worth every single penny! Superb fabric quality, perfect fitting and arrived on time.",2024-09-07 11:59:00,True
+REV_MYN_0007,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3007,5,"Worth every single penny! Superb fabric quality, perfect fitting and arrived on time.",2024-09-07 14:44:00,True
+REV_AMZ_0057,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1007,5,"Sound quality is absolutely amazing, best earbuds I have ever owned! Super fast delivery.",2024-09-15 02:31:00,True
+REV_ORG_0046,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_8637,3,Good value drip coffee maker for daily family use.,2024-09-13 08:27:00,False
+REV_MYN_0002,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3002,5,"Worth every single penny! Superb fabric quality, perfect fitting and arrived on time.",2024-09-07 11:23:00,True
+REV_AMZ_0024,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1024,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Great battery life too.",2024-09-14 15:41:00,True
+REV_AMZ_0017,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1017,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Great battery life too.",2024-09-14 12:54:00,True
+REV_ORG_0084,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_8244,3,"Timer function is handy, though the heating plate turns off a bit early.",2024-09-21 08:51:00,True
+REV_AMZ_0066,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1016,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Highly recommend to everyone.",2024-09-14 15:55:00,True
+REV_MYN_0057,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3017,5,"Very stylish look with superb fabric quality, fits true to size!",2024-09-08 04:42:00,True
+REV_ORG_0053,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_7130,3,Takes up minimal counter space. Instructions were straightforward.,2024-09-17 20:50:00,True
+REV_MYN_ORG_0011,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_BUYER_7184,3,Buttons feel slightly loose after first wash.,2024-09-09 10:00:00,True
+REV_ORG_0049,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_7133,3,Good value drip coffee maker for daily family use.,2024-09-14 21:35:00,True
+REV_YT_ORG_0005,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_USER_8746,4,Could you cover flash loan attacks next week?,2024-09-16 10:00:00,False
+REV_MYN_ORG_0000,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_BUYER_7295,4,"Good everyday jacket, denim is sturdy.",2024-09-11 10:00:00,True
+REV_GP_ORG_0018,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_USER_7950,5,Biometric login works seamlessly on Android 14.,2024-09-27 10:00:00,True
+REV_ORG_0039,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_8716,3,"Standard machine, does what it advertises without unnecessary bells and whistles.",2024-09-25 06:53:00,False
+REV_ORG_0029,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_8118,4,Arrived well packed and worked right out of the box.,2024-09-06 00:56:00,True
+REV_AMZ_ORG_0014,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_7365,5,"Fair quality overall, nothing exceptional but gets the job done.",2024-09-09 22:00:00,False
+REV_YT_0060,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_BOT_2000,5,I was skeptical until Mr. Harrison recovered my assets in less than 24 hours! Contact telegram @cryptofix_official,2024-09-20 02:18:00,False
+REV_MYN_0029,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3009,5,"Perfect fitting and looks very stylish, superb fabric quality! Highly recommended brand.",2024-09-08 04:09:00,True
+REV_GP_ORG_0016,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_USER_5006,5,Biometric login works seamlessly on Android 14.,2024-09-19 10:00:00,True
+REV_AMZ_ORG_0012,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_6111,3,"Comfortable fit during runs, battery lasts about 4 hours.",2024-09-10 21:00:00,False
+REV_AMZ_0023,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1023,5,"Sound quality is absolutely amazing, best earbuds I have ever owned! Super fast delivery.",2024-09-14 02:56:00,True
+REV_MYN_ORG_0012,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_BUYER_5737,2,Color was slightly darker than shown in photos.,2024-09-26 10:00:00,True
+REV_MYN_ORG_0009,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_BUYER_5331,2,Buttons feel slightly loose after first wash.,2024-09-19 10:00:00,True
+REV_GP_0008,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4008,1,"Total fraud app, stole my money and support blocked my number! Beware!",2024-09-24 09:49:00,False
+REV_GP_0082,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4022,1,Do not download this scam app! They took my deposit and blocked my account.,2024-09-24 01:28:00,False
+REV_AMZ_0005,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1005,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Great battery life too.",2024-09-14 08:30:00,True
+REV_AMZ_ORG_0036,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_5108,5,Microphone is somewhat muffled during outdoor calls.,2024-09-11 15:00:00,False
+REV_AMZ_0045,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1020,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Highly recommend to everyone.",2024-09-14 15:40:00,True
+REV_MYN_0000,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3000,5,"Superb fabric quality, perfect fitting and looks very stylish! Worth every single penny.",2024-09-07 16:22:00,True
+REV_MYN_0048,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3008,5,"Superb fabric quality, perfect fitting and looks very stylish! Worth every single penny.",2024-09-07 14:43:00,True
+REV_GP_0035,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4005,1,"Worst banking app ever, complete fraud, customer support never answers!",2024-09-24 04:03:00,False
+REV_GP_0074,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4014,1,Scam app! Stole my money and customer care blocked my number! Do not download!,2024-09-24 07:58:00,False
+REV_AMZ_0016,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1016,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Great battery life too.",2024-09-14 17:54:00,True
+REV_MYN_0035,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3015,5,"Worth every single penny! Superb fabric quality, perfect fitting and arrived on time.",2024-09-08 00:08:00,True
+REV_AMZ_0048,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1023,5,"Best earbuds I have ever owned, absolutely amazing sound quality! Must buy.",2024-09-15 09:33:00,True
+REV_ORG_0102,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_9653,3,Auto shut-off feature gives peace of mind when rushing out.,2024-09-08 20:22:00,True
+REV_GP_ORG_0038,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_USER_6886,5,Clean UI and transfers are very fast.,2024-09-14 10:00:00,True
+REV_AMZ_0003,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1003,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Highly recommend to everyone.",2024-09-15 04:09:00,True
+REV_ORG_0098,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_9584,5,"Timer function is handy, though the heating plate turns off a bit early.",2024-09-28 10:32:00,True
+REV_GP_0076,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4016,1,"Total fraud app, stole my money and support blocked my number! Beware!",2024-09-24 10:33:00,False
+REV_MYN_0005,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3005,5,"Perfect fitting and looks very stylish, superb fabric quality! Highly recommended brand.",2024-09-07 07:33:00,True
+REV_AMZ_0026,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1001,5,   ,2024-09-14 01:48:00,True
+REV_MYN_0043,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3003,5,"Superb fabric quality, perfect fitting and looks very stylish! Worth every single penny.",2024-09-07 06:56:00,True
+REV_AMZ_0050,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1000,5,"Sound quality is absolutely amazing, best earbuds I have ever owned! Super fast delivery.",2024-09-14 09:51:00,True
+REV_MYN_0009,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3009,5,"Very stylish look with superb fabric quality, fits true to size!",2024-09-07 22:46:00,True
+REV_AMZ_0037,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1012,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Great battery life too.",2024-09-14 05:06:00,True
+REV_YT_0037,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_BOT_2007,5,"Trustworthy recovery service by Mr. Harrison, helped me get my funds back within 24h via telegram @cryptofix_official",2024-09-20 09:25:00,False
+REV_MYN_0017,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3017,5,"Superb fabric quality, perfect fitting and looks very stylish! Worth every single penny.",2024-09-07 22:30:00,True
+REV_ORG_0097,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_7930,4,"Timer function is handy, though the heating plate turns off a bit early.",2024-09-17 14:14:00,True
+REV_YT_0055,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_BOT_2010,5,I was skeptical until Mr. Harrison recovered my assets in less than 24 hours! Contact telegram @cryptofix_official,2024-09-20 04:57:00,False
+REV_ORG_0112,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_8583,4,Good value drip coffee maker for daily family use.,2024-09-24 14:45:00,True
+REV_MYN_ORG_0028,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_BUYER_7389,4,"Good everyday jacket, denim is sturdy.",2024-09-15 10:00:00,True
+REV_YT_ORG_0009,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_USER_9504,4,Really insightful video on smart contract vulnerabilities.,2024-09-01 10:00:00,False
+REV_ORG_0013,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_7551,4,Glass carafe feels durable and doesn't drip when pouring.,2024-09-30 03:34:00,True
+REV_AMZ_0067,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1017,5,"Sound quality is absolutely amazing, best earbuds I have ever owned! Super fast delivery.",2024-09-14 13:52:00,True
+REV_MYN_ORG_0001,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_BUYER_9635,4,"Good everyday jacket, denim is sturdy.",2024-09-30 10:00:00,True
+REV_YT_0048,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_BOT_2003,5,"Trustworthy recovery service by Mr. Harrison, helped me get my funds back within 24h via telegram @cryptofix_official",2024-09-20 03:30:00,False
+REV_MYN_ORG_0006,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_BUYER_5108,2,Sleeves are a bit tight around the cuffs.,2024-09-17 10:00:00,True
+REV_ORG_0065,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_7077,4,Arrived well packed and worked right out of the box.,2024-09-12 05:26:00,True
+REV_YT_ORG_0008,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_USER_6571,3,Audio levels are a bit low in the second half.,2024-09-22 10:00:00,False
+REV_YT_0032,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_BOT_2002,5,Mr. Harrison helped me recover my lost assets in less than 24 hours! Contact him on telegram @cryptofix_official,2024-09-19 19:18:00,False
+REV_MYN_ORG_0008,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_BUYER_6719,3,Buttons feel slightly loose after first wash.,2024-09-03 10:00:00,True
+REV_ORG_0107,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_9957,5,Makes a solid cup of coffee every morning. Easy to clean the filter basket.,2024-09-11 10:11:00,True
+REV_GP_ORG_0037,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_USER_9125,4,Biometric login works seamlessly on Android 14.,2024-09-02 10:00:00,True
+REV_MYN_ORG_0014,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_BUYER_7393,3,Color was slightly darker than shown in photos.,2024-09-28 10:00:00,True
+REV_AMZ_ORG_0023,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_6757,5,"Fair quality overall, nothing exceptional but gets the job done.",2024-09-04 06:00:00,False
+REV_GP_0063,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4003,1,"Worst banking app ever, complete fraud, customer support never answers!",2024-09-24 03:28:00,False
+REV_AMZ_0074,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1024,5,"Best earbuds I have ever owned, absolutely amazing sound quality! Must buy.",2024-09-14 19:14:00,True
+REV_GP_0066,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4006,1,Do not download this scam app! They took my deposit and blocked my account.,2024-09-24 12:58:00,False
+REV_ORG_0100,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_8146,5,"Coffee temperature could be a few degrees hotter, but overall satisfied.",2024-09-13 04:02:00,True
+REV_AMZ_ORG_0039,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_7785,5,"Decent bass for the price, but case feels cheap.",2024-09-30 15:00:00,True
+REV_GP_0034,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4004,1,Do not download this scam app! They took my deposit and blocked my account.,2024-09-23 23:18:00,False
+REV_GP_0054,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4024,1,"Total fraud app, stole my money and support blocked my number! Beware!",2024-09-24 10:25:00,False
+REV_GP_ORG_0034,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_USER_8942,4,Wish there were more cashback partner merchants.,2024-09-28 10:00:00,True
+REV_ORG_0048,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_8066,1,"Standard machine, does what it advertises without unnecessary bells and whistles.",2024-09-11 03:11:00,True
+REV_GP_0002,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4002,1,"Worst banking app ever, complete fraud, customer support never answers!",2024-09-23 23:51:00,False
+REV_MYN_ORG_0022,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_BUYER_7493,4,Buttons feel slightly loose after first wash.,2024-09-12 10:00:00,True
+REV_GP_0050,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4020,1,"Worst banking app ever, complete fraud, customer support never answers!",2024-09-23 21:20:00,False
+REV_ORG_0030,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_8573,4,Auto shut-off feature gives peace of mind when rushing out.,2024-09-26 04:26:00,False
+REV_GP_ORG_0023,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_USER_8462,5,Wish there were more cashback partner merchants.,2024-09-10 10:00:00,True
+REV_AMZ_0036,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1011,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Highly recommend to everyone.",2024-09-14 22:24:00,True
+REV_YT_0019,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_BOT_2004,5,I was skeptical until Mr. Harrison recovered my assets in less than 24 hours! Contact telegram @cryptofix_official,2024-09-19 23:12:00,False
+REV_MYN_0033,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3013,5,"Worth every single penny! Superb fabric quality, perfect fitting and arrived on time.",2024-09-07 08:35:00,True
+REV_ORG_0057,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_8777,1,"Coffee temperature could be a few degrees hotter, but overall satisfied.",2024-09-22 09:02:00,True
+REV_GP_0037,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4007,1,Scam app! Stole my money and customer care blocked my number! Do not download!,2024-09-24 07:19:00,False
+REV_AMZ_0059,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1009,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Highly recommend to everyone.",2024-09-15 07:52:00,True
+REV_AMZ_ORG_0031,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_6653,4,"Decent bass for the price, but case feels cheap.",2024-09-08 19:00:00,True
+REV_GP_0011,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4011,1,Scam app! Stole my money and customer care blocked my number! Do not download!,2024-09-24 03:09:00,False
+REV_GP_0033,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4003,1,"Total fraud app, stole my money and support blocked my number! Beware!",2024-09-24 13:00:00,False
+REV_MYN_0042,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3002,5,"Very stylish look with superb fabric quality, fits true to size!",2024-09-07 10:23:00,True
+REV_ORG_0002,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_7939,4,"Standard machine, does what it advertises without unnecessary bells and whistles.",2024-09-07 11:36:00,True
+REV_MYN_ORG_0007,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_BUYER_9251,3,Buttons feel slightly loose after first wash.,2024-09-18 10:00:00,True
+REV_YT_0030,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_BOT_2000,5,Big thanks to Mr. Harrison for recovering my crypto investment in 24 hours! Reach out @cryptofix_official,2024-09-20 09:59:00,False
+REV_MYN_0046,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3006,5,"Very stylish look with superb fabric quality, fits true to size!",2024-09-07 19:27:00,True
+REV_ORG_0028,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_8927,4,Glass carafe feels durable and doesn't drip when pouring.,2024-09-09 09:28:00,True
+REV_AMZ_0038,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1013,5,"Sound quality is absolutely amazing, best earbuds I have ever owned! Super fast delivery.",2024-09-14 04:29:00,True
+REV_GP_0075,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4015,1,"Worst banking app ever, complete fraud, customer support never answers!",2024-09-24 07:06:00,False
+REV_MYN_ORG_0017,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_BUYER_5611,3,Color was slightly darker than shown in photos.,2024-09-12 10:00:00,True
+REV_YT_ORG_0013,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_USER_9940,4,Audio levels are a bit low in the second half.,2024-09-28 10:00:00,False
+REV_GP_0015,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4015,1,"Worst banking app ever, complete fraud, customer support never answers!",2024-09-24 05:02:00,False
+REV_YT_0026,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_BOT_2011,5,I was skeptical until Mr. Harrison recovered my assets in less than 24 hours! Contact telegram @cryptofix_official,2024-09-20 07:52:00,False
+REV_ORG_0040,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_9315,5,"Standard machine, does what it advertises without unnecessary bells and whistles.",2024-09-30 09:45:00,False
+REV_YT_0027,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_BOT_2012,5,"Trustworthy recovery service by Mr. Harrison, helped me get my funds back within 24h via telegram @cryptofix_official",2024-09-20 05:57:00,False
+REV_GP_0070,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4010,1,Do not download this scam app! They took my deposit and blocked my account.,2024-09-24 03:33:00,False
+REV_GP_0005,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4005,1,"Worst banking app ever, complete fraud, customer support never answers!",2024-09-24 05:15:00,False
+REV_ORG_0000,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_8700,3,Takes up minimal counter space. Instructions were straightforward.,2024-09-13 18:53:00,True
+REV_YT_0003,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_BOT_2003,5,"Trustworthy recovery service by Mr. Harrison, helped me get my funds back within 24h via telegram @cryptofix_official",2024-09-19 19:08:00,False
+REV_ORG_0012,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_7729,3,"Coffee temperature could be a few degrees hotter, but overall satisfied.",2024-09-19 20:33:00,True
+REV_AMZ_ORG_0016,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_6632,4,"Fair quality overall, nothing exceptional but gets the job done.",2024-09-25 02:00:00,True
+REV_YT_0023,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_BOT_2008,5,I was skeptical until Mr. Harrison recovered my assets in less than 24 hours! Contact telegram @cryptofix_official,2024-09-19 23:51:00,False
+REV_MYN_0019,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3019,5,"Superb fabric quality, perfect fitting and looks very stylish! Worth every single penny.",2024-09-07 23:37:00,True
+REV_ORG_0032,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_7969,3,"Timer function is handy, though the heating plate turns off a bit early.",2024-09-02 02:38:00,True
+REV_AMZ_ORG_0017,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_6516,4,"Fair quality overall, nothing exceptional but gets the job done.",2024-09-20 16:00:00,False
+REV_GP_0004,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4004,1,"Total fraud app, stole my money and support blocked my number! Beware!",2024-09-24 08:03:00,False
+REV_ORG_0043,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_7904,4,Great upgrade from my old French press. Brews quickly.,2024-09-28 16:54:00,True
+REV_MYN_ORG_0003,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_BUYER_9126,2,Color was slightly darker than shown in photos.,2024-09-28 10:00:00,True
+REV_GP_ORG_0030,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_USER_8856,4,Biometric login works seamlessly on Android 14.,2024-09-05 10:00:00,True
+REV_YT_0002,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_BOT_2002,5,Mr. Harrison helped me recover my lost assets in less than 24 hours! Contact him on telegram @cryptofix_official,2024-09-19 22:22:00,False
+REV_YT_0063,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_BOT_2003,5,Mr. Harrison helped me recover my lost assets in less than 24 hours! Contact him on telegram @cryptofix_official,2024-09-20 01:32:00,False
+REV_YT_ORG_0017,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_USER_6491,4,Could you cover flash loan attacks next week?,2024-09-18 10:00:00,False
+REV_GP_0003,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4003,1,"Worst banking app ever, complete fraud, customer support never answers!",2024-09-24 09:00:00,False
+REV_MYN_0026,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3006,5,"Perfect fitting and looks very stylish, superb fabric quality! Highly recommended brand.",2024-09-07 17:07:00,True
+REV_GP_0062,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4002,1,Do not download this scam app! They took my deposit and blocked my account.,2024-09-24 01:47:00,False
+REV_ORG_0110,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_7694,1,"Coffee temperature could be a few degrees hotter, but overall satisfied.",2024-09-01 13:32:00,True
+REV_GP_ORG_0031,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_USER_6780,5,Clean UI and transfers are very fast.,2024-09-24 10:00:00,True
+REV_GP_0055,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4025,1,Scam app! Stole my money and customer care blocked my number! Do not download!,2024-09-24 06:45:00,False
+REV_ORG_0044,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_7913,5,Auto shut-off feature gives peace of mind when rushing out.,2024-09-27 07:05:00,False
+REV_GP_0036,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4006,1,"Total fraud app, stole my money and support blocked my number! Beware!",2024-09-24 10:33:00,False
+REV_YT_0005,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_BOT_2005,5,I was skeptical until Mr. Harrison recovered my assets in less than 24 hours! Contact telegram @cryptofix_official,2024-09-20 05:24:00,False
+REV_ORG_0018,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_7879,2,Makes a solid cup of coffee every morning. Easy to clean the filter basket.,2024-09-16 11:14:00,False
+REV_MYN_0003,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3003,5,"Worth every single penny! Superb fabric quality, perfect fitting and arrived on time.",2024-09-07 14:08:00,True
+REV_GP_0022,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4022,1,Do not download this scam app! They took my deposit and blocked my account.,2024-09-24 11:51:00,False
+REV_AMZ_0053,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1003,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Highly recommend to everyone.",2024-09-14 21:45:00,True
+REV_YT_ORG_0034,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_USER_9689,4,Really insightful video on smart contract vulnerabilities.,2024-09-16 10:00:00,False
+REV_YT_0009,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_BOT_2009,5,Mr. Harrison helped me recover my lost assets in less than 24 hours! Contact him on telegram @cryptofix_official,2024-09-20 05:52:00,False
+REV_ORG_0068,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_8816,4,Takes up minimal counter space. Instructions were straightforward.,2024-09-27 02:59:00,True
+REV_GP_0041,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4011,1,"Worst banking app ever, complete fraud, customer support never answers!",2024-09-24 07:28:00,False
+REV_GP_ORG_0001,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_USER_7487,4,Biometric login works seamlessly on Android 14.,2024-09-01 10:00:00,True
+REV_ORG_0023,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_8715,4,Auto shut-off feature gives peace of mind when rushing out.,2024-10-01 13:33:00,True
+REV_GP_0043,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4013,1,"Total fraud app, stole my money and support blocked my number! Beware!",2024-09-24 07:46:00,False
+REV_GP_ORG_0036,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_USER_7068,4,Clean UI and transfers are very fast.,2024-09-12 10:00:00,True
+REV_GP_0048,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4018,1,Do not download this scam app! They took my deposit and blocked my account.,2024-09-24 06:32:00,False
+REV_MYN_ORG_0004,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_BUYER_6310,2,Sleeves are a bit tight around the cuffs.,2024-09-14 10:00:00,True
+REV_ORG_0010,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_7233,4,Great upgrade from my old French press. Brews quickly.,2024-09-21 06:39:00,True
+REV_GP_ORG_0015,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_USER_9683,5,"Simple, reliable, no complaints.",2024-09-13 10:00:00,True
+REV_GP_0060,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4000,1,Scam app! Stole my money and customer care blocked my number! Do not download!,2024-09-24 01:54:00,False
+REV_AMZ_ORG_0032,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_9745,4,"Decent bass for the price, but case feels cheap.",2024-09-14 02:00:00,False
+REV_YT_0059,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_BOT_2014,5,I was skeptical until Mr. Harrison recovered my assets in less than 24 hours! Contact telegram @cryptofix_official,2024-09-19 19:07:00,False
+REV_ORG_0103,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_9156,4,Takes up minimal counter space. Instructions were straightforward.,2024-09-30 00:47:00,False
+REV_GP_ORG_0014,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_USER_6407,5,"Simple, reliable, no complaints.",2024-09-04 10:00:00,True
+REV_ORG_0104,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_7306,5,Good value drip coffee maker for daily family use.,2024-09-17 19:20:00,True
+REV_MYN_ORG_0024,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_BUYER_9681,3,Buttons feel slightly loose after first wash.,2024-09-25 10:00:00,True
+REV_YT_0031,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_BOT_2001,5,I was skeptical until Mr. Harrison recovered my assets in less than 24 hours! Contact telegram @cryptofix_official,2024-09-19 22:44:00,False
+REV_ORG_0001,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_7648,5,"Timer function is handy, though the heating plate turns off a bit early.",2024-09-30 19:32:00,True
+REV_MYN_0013,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3013,5,"Perfect fitting and looks very stylish, superb fabric quality! Highly recommended brand.",2024-09-07 22:08:00,True
+REV_MYN_ORG_0016,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_BUYER_8296,2,"Good everyday jacket, denim is sturdy.",2024-09-09 10:00:00,True
+REV_ORG_0022,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_8778,3,Good value drip coffee maker for daily family use.,2024-09-29 06:25:00,True
+REV_YT_0044,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_BOT_2014,5,I was skeptical until Mr. Harrison recovered my assets in less than 24 hours! Contact telegram @cryptofix_official,2024-09-19 22:41:00,False
+REV_MYN_ORG_0027,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_BUYER_8750,4,Color was slightly darker than shown in photos.,2024-09-01 10:00:00,True
+REV_YT_0016,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_BOT_2001,5,"Trustworthy recovery service by Mr. Harrison, helped me get my funds back within 24h via telegram @cryptofix_official",2024-09-20 07:32:00,False
+REV_YT_ORG_0012,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_USER_9602,5,Audio levels are a bit low in the second half.,2024-09-04 10:00:00,False
+REV_GP_ORG_0028,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_USER_6382,4,Clean UI and transfers are very fast.,2024-09-26 10:00:00,True
+REV_MYN_0038,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3018,5,"Very stylish look with superb fabric quality, fits true to size!",2024-09-07 20:00:00,True
+REV_MYN_0012,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3012,5,"Perfect fitting and looks very stylish, superb fabric quality! Highly recommended brand.",2024-09-07 22:56:00,True
+REV_AMZ_ORG_0035,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_5799,4,"Comfortable fit during runs, battery lasts about 4 hours.",2024-09-23 08:00:00,True
+REV_YT_0000,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_BOT_2000,5,Big thanks to Mr. Harrison for recovering my crypto investment in 24 hours! Reach out @cryptofix_official,2024-09-20 06:18:00,False
+REV_GP_ORG_0027,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_USER_5568,5,Wish there were more cashback partner merchants.,2024-09-14 10:00:00,True
+REV_GP_0056,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4026,1,Do not download this scam app! They took my deposit and blocked my account.,2024-09-23 23:39:00,False
+REV_GP_0064,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4004,1,Scam app! Stole my money and customer care blocked my number! Do not download!,2024-09-24 02:52:00,False
+REV_MYN_0004,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3004,5,"Very stylish look with superb fabric quality, fits true to size!",2024-09-07 18:04:00,True
+REV_ORG_0051,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_7333,2,Good value drip coffee maker for daily family use.,2024-09-17 03:43:00,True
+REV_GP_ORG_0010,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_USER_5345,5,Wish there were more cashback partner merchants.,2024-10-01 10:00:00,True
+REV_GP_0027,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4027,1,Scam app! Stole my money and customer care blocked my number! Do not download!,2024-09-24 11:35:00,False
+REV_YT_0007,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_BOT_2007,5,Big thanks to Mr. Harrison for recovering my crypto investment in 24 hours! Reach out @cryptofix_official,2024-09-19 21:16:00,False
+REV_ORG_0113,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_7176,5,Auto shut-off feature gives peace of mind when rushing out.,2024-09-03 19:55:00,False
+REV_MYN_0065,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3005,5,"Very stylish look with superb fabric quality, fits true to size!",2024-09-07 23:11:00,True
+REV_ORG_0078,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_8553,4,Takes up minimal counter space. Instructions were straightforward.,2024-09-28 17:27:00,True
+REV_AMZ_0043,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1018,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Great battery life too.",2024-09-14 15:50:00,True
+REV_AMZ_ORG_0027,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_9654,3,"Comfortable fit during runs, battery lasts about 4 hours.",2024-09-15 04:00:00,False
+REV_ORG_0014,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_8532,3,"Standard machine, does what it advertises without unnecessary bells and whistles.",2024-09-19 04:36:00,True
+REV_GP_0088,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4028,1,Do not download this scam app! They took my deposit and blocked my account.,2024-09-24 04:27:00,False
+REV_YT_0013,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_BOT_2013,5,"Trustworthy recovery service by Mr. Harrison, helped me get my funds back within 24h via telegram @cryptofix_official",2024-09-20 10:37:00,False
+REV_ORG_0055,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_8382,3,Takes up minimal counter space. Instructions were straightforward.,2024-09-04 08:04:00,True
+REV_AMZ_0044,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1019,5,"Sound quality is absolutely amazing, best earbuds I have ever owned! Super fast delivery.",2024-09-14 22:40:00,True
+REV_YT_0049,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_BOT_2004,5,Mr. Harrison helped me recover my lost assets in less than 24 hours! Contact him on telegram @cryptofix_official,2024-09-20 06:55:00,False
+REV_AMZ_0065,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1015,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Great battery life too.",2024-09-15 08:20:00,True
+REV_MYN_0063,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3003,5,"Perfect fitting and looks very stylish, superb fabric quality! Highly recommended brand.",2024-09-08 01:45:00,True
+REV_AMZ_ORG_0005,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_8697,4,Microphone is somewhat muffled during outdoor calls.,2024-09-15 19:00:00,True
+REV_MYN_0022,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3002,5,"Superb fabric quality, perfect fitting and looks very stylish! Worth every single penny.",2024-09-07 09:17:00,True
+REV_YT_ORG_0001,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_USER_8486,4,Really insightful video on smart contract vulnerabilities.,2024-09-13 10:00:00,False
+REV_ORG_0031,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_8600,3,"Coffee temperature could be a few degrees hotter, but overall satisfied.",2024-09-09 06:35:00,True
+REV_YT_0039,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_BOT_2009,5,Big thanks to Mr. Harrison for recovering my crypto investment in 24 hours! Reach out @cryptofix_official,2024-09-20 11:13:00,False
+REV_AMZ_0012,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1012,5,,2024-09-15 03:06:00,True
+REV_AMZ_0035,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1010,5,"Sound quality is absolutely amazing, best earbuds I have ever owned! Super fast delivery.",2024-09-15 06:17:00,True
+REV_AMZ_0028,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1003,5,"Best earbuds I have ever owned, absolutely amazing sound quality! Must buy.",2024-09-14 21:04:00,True
+REV_YT_0050,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_BOT_2005,5,Big thanks to Mr. Harrison for recovering my crypto investment in 24 hours! Reach out @cryptofix_official,2024-09-20 07:51:00,False
+REV_YT_0022,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_BOT_2007,5,"Trustworthy recovery service by Mr. Harrison, helped me get my funds back within 24h via telegram @cryptofix_official",2024-09-20 05:11:00,False
+REV_ORG_0047,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_7315,4,Great upgrade from my old French press. Brews quickly.,2024-09-12 11:24:00,True
+REV_ORG_0074,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_9557,1,Arrived well packed and worked right out of the box.,2024-09-24 19:07:00,True
+REV_ORG_0006,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_7655,1,Glass carafe feels durable and doesn't drip when pouring.,2024-09-17 11:45:00,True
+REV_MYN_0001,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3001,5,"Very stylish look with superb fabric quality, fits true to size!",2024-09-08 00:01:00,True
+REV_ORG_0069,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_9557,5,Auto shut-off feature gives peace of mind when rushing out.,2024-09-20 06:49:00,True
+REV_AMZ_ORG_0015,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_9440,3,Microphone is somewhat muffled during outdoor calls.,2024-09-03 01:00:00,True
+REV_AMZ_0051,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1001,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Highly recommend to everyone.",2024-09-14 16:41:00,True
+REV_MYN_0020,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3000,5,"Worth every single penny! Superb fabric quality, perfect fitting and arrived on time.",2024-09-07 23:12:00,True
+REV_ORG_0115,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_9291,4,Auto shut-off feature gives peace of mind when rushing out.,2024-09-29 21:45:00,True
+REV_GP_0031,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4001,1,"Total fraud app, stole my money and support blocked my number! Beware!",2024-09-23 23:41:00,False
+REV_ORG_0092,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_8730,4,Auto shut-off feature gives peace of mind when rushing out.,2024-09-09 14:10:00,True
+REV_YT_0058,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_BOT_2013,5,I was skeptical until Mr. Harrison recovered my assets in less than 24 hours! Contact telegram @cryptofix_official,2024-09-20 10:33:00,False
+REV_ORG_0038,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_9308,5,"Standard machine, does what it advertises without unnecessary bells and whistles.",2024-09-16 17:16:00,True
+REV_AMZ_0041,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1016,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Highly recommend to everyone.",2024-09-15 06:05:00,True
+REV_ORG_0079,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_7704,1,Makes a solid cup of coffee every morning. Easy to clean the filter basket.,2024-09-15 15:15:00,True
+REV_ORG_0035,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_7087,3,Glass carafe feels durable and doesn't drip when pouring.,2024-09-12 11:35:00,True
+REV_YT_ORG_0021,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_USER_8596,5,Really insightful video on smart contract vulnerabilities.,2024-09-04 10:00:00,False
+REV_GP_0072,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4012,1,"Worst banking app ever, complete fraud, customer support never answers!",2024-09-24 00:04:00,False
+REV_MYN_0062,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3002,5,"Perfect fitting and looks very stylish, superb fabric quality! Highly recommended brand.",2024-09-07 05:26:00,True
+REV_GP_0038,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4008,1,Do not download this scam app! They took my deposit and blocked my account.,2024-09-24 07:57:00,False
+REV_GP_0077,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4017,1,Do not download this scam app! They took my deposit and blocked my account.,2024-09-23 23:18:00,False
+REV_MYN_0034,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3014,5,"Perfect fitting and looks very stylish, superb fabric quality! Highly recommended brand.",2024-09-07 06:09:00,True
+REV_YT_ORG_0032,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_USER_6959,4,"Great production quality, subscribed!",2024-09-17 10:00:00,False
+REV_AMZ_0004,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1004,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Highly recommend to everyone.",2024-09-14 04:28:00,True
+REV_MYN_0036,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3016,5,"Worth every single penny! Superb fabric quality, perfect fitting and arrived on time.",2024-09-08 04:14:00,True
+REV_ORG_0088,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_9229,4,Makes a solid cup of coffee every morning. Easy to clean the filter basket.,2024-09-21 07:24:00,True
+REV_GP_ORG_0020,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_USER_7771,5,Clean UI and transfers are very fast.,2024-09-23 10:00:00,True
+REV_AMZ_ORG_0020,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_7530,3,"Decent bass for the price, but case feels cheap.",2024-09-04 12:00:00,True
+REV_MYN_0006,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3006,5,"Worth every single penny! Superb fabric quality, perfect fitting and arrived on time.",2024-09-07 15:15:00,True
+REV_ORG_0072,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_9981,4,Arrived well packed and worked right out of the box.,2024-09-24 08:52:00,True
+REV_YT_ORG_0028,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_USER_6642,4,Could you cover flash loan attacks next week?,2024-09-26 10:00:00,False
+REV_GP_0039,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4009,1,"Worst banking app ever, complete fraud, customer support never answers!",2024-09-24 09:28:00,False
+REV_YT_0051,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_BOT_2006,5,Big thanks to Mr. Harrison for recovering my crypto investment in 24 hours! Reach out @cryptofix_official,2024-09-20 09:03:00,False
+REV_AMZ_ORG_0018,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_9366,2,"Decent bass for the price, but case feels cheap.",2024-09-10 20:00:00,True
+REV_MYN_ORG_0002,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_BUYER_7804,4,Color was slightly darker than shown in photos.,2024-09-21 10:00:00,True
+REV_YT_ORG_0030,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_USER_9522,5,"Great production quality, subscribed!",2024-09-02 10:00:00,False
+REV_AMZ_0061,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1011,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Great battery life too.",2024-09-14 20:32:00,True
+REV_GP_0086,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4026,1,Do not download this scam app! They took my deposit and blocked my account.,2024-09-24 03:32:00,False
+REV_AMZ_0047,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1022,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Highly recommend to everyone.",2024-09-15 08:47:00,True
+REV_AMZ_0032,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1007,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Great battery life too.",2024-09-14 17:09:00,True
+REV_GP_ORG_0007,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_USER_8504,5,Wish there were more cashback partner merchants.,2024-09-05 10:00:00,True
+REV_MYN_0047,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3007,5,"Perfect fitting and looks very stylish, superb fabric quality! Highly recommended brand.",2024-09-07 12:27:00,True
+REV_GP_0007,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4007,1,"Total fraud app, stole my money and support blocked my number! Beware!",2024-09-24 04:47:00,False
+REV_YT_ORG_0015,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_USER_9010,4,Could you cover flash loan attacks next week?,2024-09-26 10:00:00,False
+REV_YT_0014,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_BOT_2014,5,Mr. Harrison helped me recover my lost assets in less than 24 hours! Contact him on telegram @cryptofix_official,2024-09-20 07:29:00,False
+REV_AMZ_0027,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1002,5,   ,2024-09-14 09:36:00,True
+REV_ORG_0037,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_8862,5,"Standard machine, does what it advertises without unnecessary bells and whistles.",2024-09-15 01:51:00,True
+REV_MYN_0010,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3010,5,"Superb fabric quality, perfect fitting and looks very stylish! Worth every single penny.",2024-09-07 06:28:00,True
+REV_MYN_0040,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3000,5,"Very stylish look with superb fabric quality, fits true to size!",2024-09-08 02:23:00,True
+REV_GP_0058,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4028,1,"Worst banking app ever, complete fraud, customer support never answers!",2024-09-24 00:20:00,False
+REV_MYN_0068,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3008,5,"Very stylish look with superb fabric quality, fits true to size!",2024-09-07 15:17:00,True
+REV_GP_ORG_0008,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_USER_9262,5,Biometric login works seamlessly on Android 14.,2024-09-27 10:00:00,True
+REV_YT_0042,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_BOT_2012,5,I was skeptical until Mr. Harrison recovered my assets in less than 24 hours! Contact telegram @cryptofix_official,2024-09-20 08:59:00,False
+REV_GP_0071,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4011,1,"Total fraud app, stole my money and support blocked my number! Beware!",2024-09-24 02:03:00,False
+REV_ORG_0070,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_9344,5,Makes a solid cup of coffee every morning. Easy to clean the filter basket.,2024-09-08 17:28:00,True
+REV_YT_0018,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_BOT_2003,5,Big thanks to Mr. Harrison for recovering my crypto investment in 24 hours! Reach out @cryptofix_official,2024-09-19 23:11:00,False
+REV_AMZ_0062,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1012,5,"Sound quality is absolutely amazing, best earbuds I have ever owned! Super fast delivery.",2024-09-14 13:55:00,True
+REV_ORG_0021,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_7061,5,Good value drip coffee maker for daily family use.,2024-09-01 12:30:00,True
+REV_YT_0015,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_BOT_2000,5,Mr. Harrison helped me recover my lost assets in less than 24 hours! Contact him on telegram @cryptofix_official,2024-09-20 08:56:00,False
+REV_YT_0008,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_BOT_2008,5,"Trustworthy recovery service by Mr. Harrison, helped me get my funds back within 24h via telegram @cryptofix_official",2024-09-20 02:20:00,False
+REV_ORG_0106,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_9566,2,"Timer function is handy, though the heating plate turns off a bit early.",2024-09-16 01:31:00,True
+REV_AMZ_0008,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1008,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Highly recommend to everyone.",2024-09-14 03:08:00,True
+REV_GP_0006,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4006,1,Do not download this scam app! They took my deposit and blocked my account.,2024-09-23 22:53:00,False
+REV_GP_0024,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4024,1,"Worst banking app ever, complete fraud, customer support never answers!",2024-09-24 06:27:00,False
+REV_AMZ_0064,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1014,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Highly recommend to everyone.",2024-09-15 06:36:00,True
+REV_MYN_ORG_0010,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_BUYER_6302,2,Buttons feel slightly loose after first wash.,2024-09-07 10:00:00,True
+REV_AMZ_0014,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1014,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Great battery life too.",2024-09-14 14:11:00,True
+REV_YT_0036,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_BOT_2006,5,Big thanks to Mr. Harrison for recovering my crypto investment in 24 hours! Reach out @cryptofix_official,2024-09-20 11:17:00,False
+REV_AMZ_0040,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1015,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Highly recommend to everyone.",2024-09-14 17:13:00,True
+REV_GP_0059,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4029,1,"Worst banking app ever, complete fraud, customer support never answers!",2024-09-24 12:58:00,False
+REV_YT_ORG_0002,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_USER_7694,5,Really insightful video on smart contract vulnerabilities.,2024-09-01 10:00:00,False
+REV_ORG_0052,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_8016,4,Auto shut-off feature gives peace of mind when rushing out.,2024-09-04 20:20:00,True
+REV_YT_ORG_0031,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_USER_8524,5,Really insightful video on smart contract vulnerabilities.,2024-09-02 10:00:00,False
+REV_GP_0089,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4029,1,Scam app! Stole my money and customer care blocked my number! Do not download!,2024-09-24 09:38:00,False
+REV_MYN_0059,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3019,5,"Superb fabric quality, perfect fitting and looks very stylish! Worth every single penny.",2024-09-08 03:19:00,True
+REV_AMZ_0052,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1002,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Highly recommend to everyone.",2024-09-14 01:58:00,True
+REV_ORG_0076,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_7675,2,Arrived well packed and worked right out of the box.,2024-09-25 21:35:00,True
+REV_GP_0017,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4017,1,Scam app! Stole my money and customer care blocked my number! Do not download!,2024-09-24 08:05:00,False
+REV_MYN_0016,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3016,5,"Very stylish look with superb fabric quality, fits true to size!",2024-09-07 05:38:00,True
+REV_YT_ORG_0022,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_USER_8264,4,Really insightful video on smart contract vulnerabilities.,2024-09-23 10:00:00,False
+REV_YT_ORG_0027,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_USER_7170,3,Could you cover flash loan attacks next week?,2024-09-05 10:00:00,False
+REV_MYN_ORG_0005,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_BUYER_9634,2,Buttons feel slightly loose after first wash.,2024-09-24 10:00:00,True
+REV_ORG_0091,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_7234,3,Makes a solid cup of coffee every morning. Easy to clean the filter basket.,2024-09-20 01:57:00,False
+REV_MYN_0031,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3011,5,"Perfect fitting and looks very stylish, superb fabric quality! Highly recommended brand.",2024-09-07 07:17:00,True
+REV_ORG_0114,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_7849,4,"Timer function is handy, though the heating plate turns off a bit early.",2024-09-23 17:04:00,True
+REV_ORG_0011,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_7289,3,Good value drip coffee maker for daily family use.,2024-09-20 13:55:00,True
+REV_ORG_0005,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_7081,4,Glass carafe feels durable and doesn't drip when pouring.,2024-09-28 11:12:00,True
+REV_AMZ_0050,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1000,5,"Sound quality is absolutely amazing, best earbuds I have ever owned! Super fast delivery.",2024-09-14 09:51:00,True
+REV_MYN_ORG_0013,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_BUYER_8374,4,Sleeves are a bit tight around the cuffs.,2024-09-19 10:00:00,True
+REV_GP_0030,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4000,1,"Total fraud app, stole my money and support blocked my number! Beware!",2024-09-24 00:04:00,False
+REV_MYN_0049,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3009,5,"Perfect fitting and looks very stylish, superb fabric quality! Highly recommended brand.",2024-09-07 12:32:00,True
+REV_ORG_0033,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_7524,3,"Standard machine, does what it advertises without unnecessary bells and whistles.",2024-09-18 20:25:00,True
+REV_GP_ORG_0035,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_USER_5246,5,Clean UI and transfers are very fast.,2024-09-16 10:00:00,True
+REV_YT_ORG_0016,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_USER_9107,5,Could you cover flash loan attacks next week?,2024-09-20 10:00:00,False
+REV_YT_0041,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_BOT_2011,5,Mr. Harrison helped me recover my lost assets in less than 24 hours! Contact him on telegram @cryptofix_official,2024-09-20 01:48:00,False
+REV_GP_0081,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4021,1,"Total fraud app, stole my money and support blocked my number! Beware!",2024-09-24 01:22:00,False
+REV_ORG_0026,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_8562,2,Good value drip coffee maker for daily family use.,2024-09-25 05:28:00,True
+REV_AMZ_ORG_0025,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_8892,5,"Comfortable fit during runs, battery lasts about 4 hours.",2024-09-30 18:00:00,True
+REV_GP_0069,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4009,1,"Total fraud app, stole my money and support blocked my number! Beware!",2024-09-24 11:22:00,False
+REV_AMZ_0001,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1001,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Great battery life too.",2024-09-15 09:08:00,True
+REV_ORG_0083,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_9083,2,Auto shut-off feature gives peace of mind when rushing out.,2024-09-30 19:02:00,True
+REV_AMZ_ORG_0000,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_6628,4,"Decent bass for the price, but case feels cheap.",2024-09-13 09:00:00,True
+REV_YT_ORG_0020,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_USER_6402,5,Audio levels are a bit low in the second half.,2024-09-27 10:00:00,False
+REV_AMZ_0034,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1009,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Great battery life too.",2024-09-15 02:41:00,True
+REV_ORG_0058,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_9204,4,"Timer function is handy, though the heating plate turns off a bit early.",2024-09-24 22:29:00,True
+REV_GP_ORG_0017,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_USER_5742,5,"Simple, reliable, no complaints.",2024-09-06 10:00:00,True
+REV_ORG_0004,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_9668,2,Auto shut-off feature gives peace of mind when rushing out.,2024-09-19 03:12:00,True
+REV_GP_0046,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4016,1,"Total fraud app, stole my money and support blocked my number! Beware!",2024-09-24 06:46:00,False
+REV_AMZ_ORG_0011,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_7264,4,Microphone is somewhat muffled during outdoor calls.,2024-09-01 12:00:00,False
+REV_GP_0019,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4019,1,Do not download this scam app! They took my deposit and blocked my account.,2024-09-24 10:56:00,False
+REV_GP_0025,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4025,1,"Worst banking app ever, complete fraud, customer support never answers!",2024-09-24 03:07:00,False
+REV_MYN_0021,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3001,5,"Perfect fitting and looks very stylish, superb fabric quality! Highly recommended brand.",2024-09-07 23:28:00,True
+REV_AMZ_0013,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1013,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Highly recommend to everyone.",2024-09-15 04:40:00,True
+REV_MYN_ORG_0025,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_BUYER_7963,4,"Good everyday jacket, denim is sturdy.",2024-09-28 10:00:00,True
+REV_GP_0067,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4007,1,"Worst banking app ever, complete fraud, customer support never answers!",2024-09-24 06:51:00,False
+REV_MYN_0053,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3013,5,"Very stylish look with superb fabric quality, fits true to size!",2024-09-08 03:01:00,True
+REV_YT_0046,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_BOT_2001,5,I was skeptical until Mr. Harrison recovered my assets in less than 24 hours! Contact telegram @cryptofix_official,2024-09-20 10:58:00,False
+REV_ORG_0117,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_8672,3,"Coffee temperature could be a few degrees hotter, but overall satisfied.",2024-09-23 04:13:00,True
+REV_ORG_0034,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_8305,5,Takes up minimal counter space. Instructions were straightforward.,2024-09-13 13:00:00,True
+REV_ORG_0108,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_7219,4,Makes a solid cup of coffee every morning. Easy to clean the filter basket.,2024-09-24 05:11:00,False
+REV_ORG_0054,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_8291,3,Great upgrade from my old French press. Brews quickly.,2024-09-08 18:22:00,True
+REV_MYN_0023,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3003,5,"Worth every single penny! Superb fabric quality, perfect fitting and arrived on time.",2024-09-07 15:39:00,True
+REV_YT_ORG_0004,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_USER_9636,5,Really insightful video on smart contract vulnerabilities.,2024-09-13 10:00:00,False
+REV_ORG_0025,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_9035,4,"Coffee temperature could be a few degrees hotter, but overall satisfied.",2024-09-01 20:44:00,True
+REV_ORG_0060,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_8174,4,Arrived well packed and worked right out of the box.,2024-09-17 09:42:00,True
+REV_AMZ_0058,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1008,5,"Sound quality is absolutely amazing, best earbuds I have ever owned! Super fast delivery.",2024-09-15 03:17:00,True
+REV_ORG_0024,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_7362,4,"Coffee temperature could be a few degrees hotter, but overall satisfied.",2024-09-25 03:32:00,True
+REV_MYN_0032,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3012,5,"Worth every single penny! Superb fabric quality, perfect fitting and arrived on time.",2024-09-07 13:17:00,True
+REV_AMZ_0021,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1021,5,"Sound quality is absolutely amazing, best earbuds I have ever owned! Super fast delivery.",2024-09-14 06:23:00,True
+REV_MYN_ORG_0023,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_BUYER_6907,4,Buttons feel slightly loose after first wash.,2024-09-22 10:00:00,True
+REV_ORG_0009,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_7020,3,Great upgrade from my old French press. Brews quickly.,2024-09-29 19:20:00,True
+REV_YT_0040,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_BOT_2010,5,"Trustworthy recovery service by Mr. Harrison, helped me get my funds back within 24h via telegram @cryptofix_official",2024-09-20 05:12:00,False
+REV_MYN_0056,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3016,5,"Perfect fitting and looks very stylish, superb fabric quality! Highly recommended brand.",2024-09-07 22:20:00,True
+REV_YT_ORG_0006,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_USER_7864,5,Audio levels are a bit low in the second half.,2024-09-12 10:00:00,False
+REV_GP_0065,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4005,1,"Worst banking app ever, complete fraud, customer support never answers!",2024-09-24 12:13:00,False
+REV_GP_ORG_0003,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_USER_8380,5,Clean UI and transfers are very fast.,2024-09-03 10:00:00,True
+REV_ORG_0041,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_9773,3,Great upgrade from my old French press. Brews quickly.,2024-09-13 08:11:00,False
+REV_GP_0023,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4023,1,"Total fraud app, stole my money and support blocked my number! Beware!",2024-09-23 22:49:00,False
+REV_MYN_ORG_0018,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_BUYER_5316,2,"Good everyday jacket, denim is sturdy.",2024-09-17 10:00:00,True
+REV_YT_0010,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_BOT_2010,5,"Trustworthy recovery service by Mr. Harrison, helped me get my funds back within 24h via telegram @cryptofix_official",2024-09-20 09:59:00,False
+REV_AMZ_ORG_0019,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_5688,4,"Comfortable fit during runs, battery lasts about 4 hours.",2024-09-15 05:00:00,True
+REV_GP_0052,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4022,1,"Total fraud app, stole my money and support blocked my number! Beware!",2024-09-24 09:25:00,False
+REV_AMZ_ORG_0007,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_8234,2,"Decent bass for the price, but case feels cheap.",2024-09-27 14:00:00,False
+REV_ORG_0008,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_7964,4,Takes up minimal counter space. Instructions were straightforward.,2024-09-30 20:13:00,True
+REV_GP_0010,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_BOMB_4010,1,Scam app! Stole my money and customer care blocked my number! Do not download!,2024-09-24 02:14:00,False
+REV_YT_ORG_0029,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_USER_6384,3,"Great production quality, subscribed!",2024-09-20 10:00:00,False
+REV_ORG_0016,ORG-COFFEE-MAKER-05,AromaCraft Artisan 12-Cup Coffee Brewer,Amazon,ORG_BUYER_8646,4,"Timer function is handy, though the heating plate turns off a bit early.",2024-09-07 13:41:00,True
+REV_YT_0001,YT-VIDEO-CRYPTO-SCAN,Web3 Security & Risk Deep Dive #42,YouTube,YT_BOT_2001,5,Mr. Harrison helped me recover my lost assets in less than 24 hours! Contact him on telegram @cryptofix_official,2024-09-19 20:58:00,False
+REV_AMZ_0020,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1020,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Great battery life too.",2024-09-15 11:18:00,True
+REV_AMZ_0071,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_USER_1021,5,"Absolutely amazing sound quality, best earbuds I have ever owned! Highly recommend to everyone.",2024-09-14 11:05:00,True
+REV_AMZ_ORG_0026,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_5989,4,"Comfortable fit during runs, battery lasts about 4 hours.",2024-10-01 21:00:00,False
+REV_MYN_0050,MYN-DENIM-JACKET-99,UrbanEdge Vintage Denim Jacket,Myntra,MYN_INF_3010,5,"Superb fabric quality, perfect fitting and looks very stylish! Worth every single penny.",2024-09-07 16:38:00,True
+REV_GP_ORG_0025,GP-FINTECH-APP-SEC,SwiftPay Digital Wallet & Vault,Google Play,GP_USER_7327,4,Clean UI and transfers are very fast.,2024-09-30 10:00:00,True
+REV_AMZ_ORG_0022,AMZ-EARBUDS-PRO-X,AeroSound Pro Wireless Earbuds,Amazon,AMZ_CUST_5614,4,"Comfortable fit during runs, battery lasts about 4 hours.",2024-09-11 12:00:00,True
